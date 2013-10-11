@@ -1,0 +1,5174 @@
+{
+  "default": {},
+  "/travel/spb.2013.07/": {
+    "destination_iata": "LED",
+    "name": {
+      "ru": "Санкт-Петербург",
+      "en": "Saint Petersburg"
+    }
+  },
+  "/travel/odessa.2013.07/": {
+    "destination_iata": "ODS",
+    "name": {
+      "ru": "Одесса",
+      "en": "Odessa"
+    }
+  },
+  "/travel/croatia.2013/": {
+    "destination_iata": "DBV",
+    "name": {
+      "ru": "Дубровник",
+      "en": "Dubrovnik"
+    }
+  },
+  "/travel/gabon/": {
+    "destination_iata": "LBV",
+    "name": {
+      "ru": "Либревиль",
+      "en": "Libreville"
+    }
+  },
+  "/travel/congo/": {
+    "destination_iata": "BZV",
+    "name": {
+      "ru": "Браззавиль",
+      "en": "Brazzaville"
+    }
+  },
+  "/travel/dr-congo/": {
+    "destination_iata": "FIH",
+    "name": {
+      "ru": "Киншаса",
+      "en": "Kinshasa"
+    }
+  },
+  "/travel/douala/": {
+    "destination_iata": "DLA",
+    "name": {
+      "ru": "Дуала",
+      "en": "Douala"
+    },
+	"destination": {
+		"ru": "Дуала, Камерун",
+		"en": "Douala, Cameroon"
+	}
+  },
+  "/travel/car/": {
+    "destination_iata": "BGF",
+    "name": {
+      "ru": "Банги",
+      "en": "Bangui"
+    },
+	"destination": {
+		"ru": "",
+		"en": ""
+	}
+  },
+  "/travel/angola/": {
+    "destination_iata": "LAD",
+    "name": {
+      "ru": "Луанда",
+      "en": "Luanda"
+    },
+	"destination": {
+		"ru": "Луанда, Ангола",
+		"en": "Luanda, Angola"
+	}
+  },
+  "/travel/namibia/": {
+    "destination_iata": "WDH",
+    "name": {
+      "ru": "Виндхук",
+      "en": "Windhoek"
+    }
+  },
+  "/travel/rome.2013.06/": {
+    "destination_iata": "ROM",
+    "name": {
+      "ru": "Рим",
+      "en": "Rome"
+    }
+  },
+  "/travel/corsica/": {
+    "destination_iata": "AJA",
+    "name": {
+      "ru": "Аяччо",
+      "en": "Ajaccio"
+    }
+  },
+  "/travel/france.2013.06/": {
+    "destination_iata": "NCE",
+    "name": {
+      "ru": "Ницца",
+      "en": "Nice"
+    }
+  },
+  "/travel/kiev.2013.06/": {
+    "destination_iata": "KBP",
+    "name": {
+      "ru": "Киев",
+      "en": "Kiev"
+    }
+  },
+  "/travel/lugansk.2013.06/": {
+    "destination_iata": "VSG",
+    "name": {
+      "ru": "Луганск",
+      "en": "Lugansk"
+    }
+  },
+  "/travel/maldives.2013/": {
+    "destination_iata": "MLE",
+    "name": {
+      "ru": "Мале",
+      "en": "Male"
+    }
+  },
+  "/travel/hong-kong.2013.06/": {
+    "destination_iata": "HKG",
+    "name": {
+      "ru": "Гонконг",
+      "en": "Hong Kong"
+    }
+  },
+  "/travel/bishkek/": {
+    "destination_iata": "FRU",
+    "name": {
+      "ru": "Бишкек",
+      "en": "Bishkek"
+    }
+  },
+  "/travel/protvino/": {
+    "destination_iata": "MOW",
+    "name": {
+      "ru": "Москва",
+      "en": "Moscow"
+    }
+  },
+  "/travel/saratov.2013.05/": {
+    "destination_iata": "RTW",
+    "name": {
+      "ru": "Саратов",
+      "en": "Saratov"
+    }
+  },
+  "/travel/guadeloupe/": {
+    "destination_iata": "PTP",
+    "name": {
+      "ru": "Пуант-А-Питр",
+      "en": "Pointe-a-pitre"
+    }
+  },
+  "/travel/anguilla/": {
+    "destination_iata": "AXA",
+    "name": {
+      "ru": "Ангилья",
+      "en": "Anguilla"
+    }
+  },
+  "/travel/saint-barthelemy/": {
+    "destination_iata": "SBH",
+    "name": {
+      "ru": "Густавиа",
+      "en": "Gustavia"
+    }
+  },
+  "/travel/saint-martin/": {
+    "destination_iata": "SXM",
+    "name": {
+      "ru": "Филипсбург",
+      "en": "Philipsburg"
+    }
+  },
+  "/travel/south-africa/cities/": {
+    "destination_iata": "CPT",
+    "name": {
+      "ru": "Кейптаун",
+      "en": "Cape Town"
+    }
+  },
+  "/travel/ethiopia/cities/": {
+    "destination_iata": "ADD",
+    "name": {
+      "ru": "Аддис-Абеба",
+      "en": "Addis Ababa"
+    }
+  },
+  "/travel/estonia/cities/": {
+    "destination_iata": "TLL",
+    "name": {
+      "ru": "Таллинн",
+      "en": "Tallinn"
+    }
+  },
+  "/travel/sri-lanka/cities/": {
+    "destination_iata": "CMB",
+    "name": {
+      "ru": "Коломбо",
+      "en": "Colombo"
+    }
+  },
+  "/travel/sweden/cities/": {
+    "destination_iata": "STO",
+    "name": {
+      "ru": "Стокгольм",
+      "en": "Stockholm"
+    }
+  },
+  "/travel/switzerland/cities/": {
+    "destination_iata": "ZRH",
+    "name": {
+      "ru": "Цюрих",
+      "en": "Zurich"
+    }
+  },
+  "/travel/chile/cities/": {
+    "destination_iata": "SCL",
+    "name": {
+      "ru": "Сантьяго",
+      "en": "Santiago"
+    }
+  },
+  "/travel/croatia/cities/": {
+    "destination_iata": "ZAG",
+    "name": {
+      "ru": "Загреб",
+      "en": "Zagreb"
+    }
+  },
+  "/travel/france/cities/": {
+    "destination_iata": "PAR",
+    "name": {
+      "ru": "Париж",
+      "en": "Paris"
+    }
+  },
+  "/travel/philippines/cities/": {
+    "destination_iata": "MNL",
+    "name": {
+      "ru": "Манила",
+      "en": "Manila"
+    }
+  },
+  "/travel/fiji/cities/": {
+    "destination_iata": "NAN",
+    "name": {
+      "ru": "Нанди",
+      "en": "Nadi"
+    }
+  },
+  "/travel/ukraine/cities/": {
+    "destination_iata": "KBP",
+    "name": {
+      "ru": "Киев",
+      "en": "Kiev"
+    }
+  },
+  "/travel/turkey/cities/": {
+    "destination_iata": "IST",
+    "name": {
+      "ru": "Стамбул",
+      "en": "Istanbul"
+    }
+  },
+  "/travel/taiwan/cities/": {
+    "destination_iata": "TPE",
+    "name": {
+      "ru": "Тайбэй",
+      "en": "Taipei"
+    }
+  },
+  "/travel/tajikistan/cities/": {
+    "destination_iata": "DYU",
+    "name": {
+      "ru": "Душанбе",
+      "en": "Dushanbe"
+    }
+  },
+  "/travel/somaliland/cities/": {
+    "destination_iata": "BBO",
+    "name": {
+      "ru": "Бербера",
+      "en": "Berbera"
+    }
+  },
+  "/travel/slovenia/cities/": {
+    "destination_iata": "LJU",
+    "name": {
+      "ru": "Любляна",
+      "en": "Ljubljana"
+    }
+  },
+  "/travel/syria/cities/": {
+    "destination_iata": "DAM",
+    "name": {
+      "ru": "Дамаск",
+      "en": "Damascus"
+    }
+  },
+  "/travel/usa/cities/": {
+    "destination_iata": "NYC",
+    "name": {
+      "ru": "Нью-Йорк",
+      "en": "New York"
+    }
+  },
+  "/travel/romania/cities/": {
+    "destination_iata": "BUH",
+    "name": {
+      "ru": "Бухарест",
+      "en": "Bucharest"
+    }
+  },
+  "/travel/peru/cities/": {
+    "destination_iata": "LIM",
+    "name": {
+      "ru": "Лима",
+      "en": "Lima"
+    }
+  },
+  "/travel/paraguay/cities/": {
+    "destination_iata": "ASU",
+    "name": {
+      "ru": "Асунсьон",
+      "en": "Asuncion"
+    }
+  },
+  "/travel/pakistan/cities/": {
+    "destination_iata": "ISB",
+    "name": {
+      "ru": "Исламабад",
+      "en": "Islamabad"
+    }
+  },
+  "/travel/uae/cities/": {
+    "destination_iata": "DXB",
+    "name": {
+      "ru": "Дубай",
+      "en": "Dubai"
+    }
+  },
+  "/travel/norway/cities/": {
+    "destination_iata": "OSL",
+    "name": {
+      "ru": "Осло",
+      "en": "Oslo"
+    }
+  },
+  "/travel/new-zealand/cities/": {
+    "destination_iata": "AKL",
+    "name": {
+      "ru": "Окленд",
+      "en": "Auckland"
+    }
+  },
+  "/travel/netherlands/cities/": {
+    "destination_iata": "AMS",
+    "name": {
+      "ru": "Амстердам",
+      "en": "Amsterdam"
+    }
+  },
+  "/travel/mongolia/cities/": {
+    "destination_iata": "ULN",
+    "name": {
+      "ru": "Улан-Батор",
+      "en": "Ulaanbaatar"
+    }
+  },
+  "/travel/moldova/cities/": {
+    "destination_iata": "KIV",
+    "name": {
+      "ru": "Кишинёв",
+      "en": "Chisinau"
+    }
+  },
+  "/travel/morocco/cities/": {
+    "destination_iata": "RAK",
+    "name": {
+      "ru": "Марракеш",
+      "en": "Marrakech"
+    }
+  },
+  "/travel/mali/cities/": {
+    "destination_iata": "BKO",
+    "name": {
+      "ru": "Бамако",
+      "en": "Bamako"
+    }
+  },
+  "/travel/madagascar/cities/": {
+    "destination_iata": "TNR",
+    "name": {
+      "ru": "Антананариву",
+      "en": "Antananarivo"
+    }
+  },
+  "/travel/liberia/cities/": {
+    "destination_iata": "MLW",
+    "name": {
+      "ru": "Монровия",
+      "en": "Monrovia"
+    }
+  },
+  "/travel/latvia/cities/": {
+    "destination_iata": "RIX",
+    "name": {
+      "ru": "Рига",
+      "en": "Riga"
+    }
+  },
+  "/travel/south-korea/cities/": {
+    "destination_iata": "SEL",
+    "name": {
+      "ru": "Сеул",
+      "en": "Seoul"
+    }
+  },
+  "/travel/north-korea/cities/": {
+    "destination_iata": "FNJ",
+    "name": {
+      "ru": "Пхеньян",
+      "en": "Pyongyang"
+    }
+  },
+  "/travel/china/cities/": {
+    "destination_iata": "BJS",
+    "name": {
+      "ru": "Пекин",
+      "en": "Beijing"
+    }
+  },
+  "/travel/canada/cities/": {
+    "destination_iata": "YTO",
+    "name": {
+      "ru": "Торонто",
+      "en": "Toronto"
+    }
+  },
+  "/travel/kazakhstan/cities/": {
+    "destination_iata": "TSE",
+    "name": {
+      "ru": "Астана",
+      "en": "Astana"
+    }
+  },
+  "/travel/italy/cities/": {
+    "destination_iata": "ROM",
+    "name": {
+      "ru": "Рим",
+      "en": "Rome"
+    }
+  },
+  "/travel/spain/cities/": {
+    "destination_iata": "MAD",
+    "name": {
+      "ru": "Мадрид",
+      "en": "Madrid"
+    }
+  },
+  "/travel/iran/cities/": {
+    "destination_iata": "THR",
+    "name": {
+      "ru": "Тегеран",
+      "en": "Tehran"
+    }
+  },
+  "/travel/irak/cities/": {
+    "destination_iata": "BGW",
+    "name": {
+      "ru": "Багдад",
+      "en": "Baghdad"
+    }
+  },
+  "/travel/india/cities/": {
+    "destination_iata": "BOM",
+    "name": {
+      "ru": "Мумбаи",
+      "en": "Mumbai"
+    }
+  },
+  "/travel/israel/cities/": {
+    "destination_iata": "TLV",
+    "name": {
+      "ru": "Тель-Авив",
+      "en": "Tel Aviv Yafo"
+    }
+  },
+  "/travel/egypt/cities/": {
+    "destination_iata": "CAI",
+    "name": {
+      "ru": "Каир",
+      "en": "Cairo"
+    }
+  },
+  "/travel/dominican-republic/cities/": {
+    "destination_iata": "SDQ",
+    "name": {
+      "ru": "Санто Доминго",
+      "en": "Santo Domingo"
+    }
+  },
+  "/travel/denmark/cities/": {
+    "destination_iata": "CPH",
+    "name": {
+      "ru": "Копенгаген",
+      "en": "Copenhagen"
+    }
+  },
+  "/travel/greece/cities/": {
+    "destination_iata": "ATH",
+    "name": {
+      "ru": "Афины",
+      "en": "Athens"
+    }
+  },
+  "/travel/hong-kong/cities/": {
+    "destination_iata": "HKG",
+    "name": {
+      "ru": "Гонконг",
+      "en": "Hong Kong"
+    }
+  },
+  "/travel/germany/cities/": {
+    "destination_iata": "BER",
+    "name": {
+      "ru": "Берлин",
+      "en": "Berlin"
+    }
+  },
+  "/travel/guatemala/cities/": {
+    "destination_iata": "GUA",
+    "name": {
+      "ru": "Гватемала",
+      "en": "Guatemala City"
+    }
+  },
+  "/travel/vietnam/cities/": {
+    "destination_iata": "HAN",
+    "name": {
+      "ru": "Ханой",
+      "en": "Hanoi"
+    }
+  },
+  "/travel/venezuela/cities/": {
+    "destination_iata": "CCS",
+    "name": {
+      "ru": "Каракас",
+      "en": "Caracas"
+    }
+  },
+  "/travel/united-kingdom/cities/": {
+    "destination_iata": "LON",
+    "name": {
+      "ru": "Лондон",
+      "en": "London"
+    }
+  },
+  "/travel/vatican/cities/": {
+    "destination_iata": "ROM",
+    "name": {
+      "ru": "Рим",
+      "en": "Rome"
+    }
+  },
+  "/travel/brazil/cities/": {
+    "destination_iata": "SAO",
+    "name": {
+      "ru": "Сан-Пауло",
+      "en": "Sao Paulo"
+    }
+  },
+  "/travel/bulgaria/cities/": {
+    "destination_iata": "SOF",
+    "name": {
+      "ru": "София",
+      "en": "Sofia"
+    }
+  },
+  "/travel/benin/cities/": {
+    "destination_iata": "COO",
+    "name": {
+      "ru": "Котону",
+      "en": "Cotonou"
+    }
+  },
+  "/travel/bangladesh/cities/": {
+    "destination_iata": "DAC",
+    "name": {
+      "ru": "Дакка",
+      "en": "Dhaka"
+    }
+  },
+  "/travel/afghanistan/cities/": {
+    "destination_iata": "KBL",
+    "name": {
+      "ru": "Кабул",
+      "en": "Kabul"
+    }
+  },
+  "/travel/armenia/cities/": {
+    "destination_iata": "EVN",
+    "name": {
+      "ru": "Ереван",
+      "en": "Yerevan"
+    }
+  },
+  "/travel/andorra/cities/": {
+    "destination_iata": "BCN",
+    "name": {
+      "ru": "Барселона",
+      "en": "Barcelona"
+    }
+  },
+  "/travel/albania/cities/": {
+    "destination_iata": "TIA",
+    "name": {
+      "ru": "Тирана",
+      "en": "Tirana"
+    }
+  },
+  "/travel/azerbaijan/cities/": {
+    "destination_iata": "GYD",
+    "name": {
+      "ru": "Heydar Aliyev International (Bina International)",
+      "en": "Heydar Aliyev International (Bina International)"
+    }
+  },
+  "/travel/austria/cities/": {
+    "destination_iata": "VIE",
+    "name": {
+      "ru": "Вена",
+      "en": "Vienna"
+    }
+  },
+  "/travel/australia/cities/": {
+    "destination_iata": "SYD",
+    "name": {
+      "ru": "Сидней",
+      "en": "Sydney"
+    }
+  },
+  "/travel/south-africa/": {
+    "destination_iata": "CPT",
+    "name": {
+      "ru": "Кейптаун",
+      "en": "Cape Town"
+    }
+  },
+  "/travel/ethiopia/": {
+    "destination_iata": "ADD",
+    "name": {
+      "ru": "Аддис-Абеба",
+      "en": "Addis Ababa"
+    }
+  },
+  "/travel/estonia/": {
+    "destination_iata": "TLL",
+    "name": {
+      "ru": "Таллинн",
+      "en": "Tallinn"
+    }
+  },
+  "/travel/sri-lanka/": {
+    "destination_iata": "CMB",
+    "name": {
+      "ru": "Коломбо",
+      "en": "Colombo"
+    }
+  },
+  "/travel/sweden/": {
+    "destination_iata": "STO",
+    "name": {
+      "ru": "Стокгольм",
+      "en": "Stockholm"
+    }
+  },
+  "/travel/switzerland/": {
+    "destination_iata": "ZRH",
+    "name": {
+      "ru": "Цюрих",
+      "en": "Zurich"
+    }
+  },
+  "/travel/chile/": {
+    "destination_iata": "SCL",
+    "name": {
+      "ru": "Сантьяго",
+      "en": "Santiago"
+    }
+  },
+  "/travel/croatia/": {
+    "destination_iata": "ZAG",
+    "name": {
+      "ru": "Загреб",
+      "en": "Zagreb"
+    }
+  },
+  "/travel/france/": {
+    "destination_iata": "PAR",
+    "name": {
+      "ru": "Париж",
+      "en": "Paris"
+    }
+  },
+  "/travel/philippines/": {
+    "destination_iata": "MNL",
+    "name": {
+      "ru": "Манила",
+      "en": "Manila"
+    }
+  },
+  "/travel/fiji/": {
+    "destination_iata": "NAN",
+    "name": {
+      "ru": "Нанди",
+      "en": "Nadi"
+    }
+  },
+  "/travel/ukraine/": {
+    "destination_iata": "KBP",
+    "name": {
+      "ru": "Киев",
+      "en": "Kiev"
+    }
+  },
+  "/travel/turkey/": {
+    "destination_iata": "IST",
+    "name": {
+      "ru": "Стамбул",
+      "en": "Istanbul"
+    }
+  },
+  "/travel/taiwan/": {
+    "destination_iata": "TPE",
+    "name": {
+      "ru": "Тайбэй",
+      "en": "Taipei"
+    }
+  },
+  "/travel/tajikistan/": {
+    "destination_iata": "DYU",
+    "name": {
+      "ru": "Душанбе",
+      "en": "Dushanbe"
+    }
+  },
+  "/travel/somaliland/": {
+    "destination_iata": "BBO",
+    "name": {
+      "ru": "Бербера",
+      "en": "Berbera"
+    }
+  },
+  "/travel/slovenia/": {
+    "destination_iata": "LJU",
+    "name": {
+      "ru": "Любляна",
+      "en": "Ljubljana"
+    }
+  },
+  "/travel/syria/": {
+    "destination_iata": "DAM",
+    "name": {
+      "ru": "Дамаск",
+      "en": "Damascus"
+    }
+  },
+  "/travel/usa/": {
+    "destination_iata": "NYC",
+    "name": {
+      "ru": "Нью-Йорк",
+      "en": "New York"
+    }
+  },
+  "/travel/romania/": {
+    "destination_iata": "BUH",
+    "name": {
+      "ru": "Бухарест",
+      "en": "Bucharest"
+    }
+  },
+  "/travel/peru/": {
+    "destination_iata": "LIM",
+    "name": {
+      "ru": "Лима",
+      "en": "Lima"
+    }
+  },
+  "/travel/paraguay/": {
+    "destination_iata": "ASU",
+    "name": {
+      "ru": "Асунсьон",
+      "en": "Asuncion"
+    }
+  },
+  "/travel/pakistan/": {
+    "destination_iata": "ISB",
+    "name": {
+      "ru": "Исламабад",
+      "en": "Islamabad"
+    }
+  },
+  "/travel/uae/": {
+    "destination_iata": "DXB",
+    "name": {
+      "ru": "Дубай",
+      "en": "Dubai"
+    }
+  },
+  "/travel/norway/": {
+    "destination_iata": "OSL",
+    "name": {
+      "ru": "Осло",
+      "en": "Oslo"
+    }
+  },
+  "/travel/new-zealand/": {
+    "destination_iata": "AKL",
+    "name": {
+      "ru": "Окленд",
+      "en": "Auckland"
+    }
+  },
+  "/travel/netherlands/": {
+    "destination_iata": "AMS",
+    "name": {
+      "ru": "Амстердам",
+      "en": "Amsterdam"
+    }
+  },
+  "/travel/mongolia/": {
+    "destination_iata": "ULN",
+    "name": {
+      "ru": "Улан-Батор",
+      "en": "Ulaanbaatar"
+    }
+  },
+  "/travel/moldova/": {
+    "destination_iata": "KIV",
+    "name": {
+      "ru": "Кишинёв",
+      "en": "Chisinau"
+    }
+  },
+  "/travel/morocco/": {
+    "destination_iata": "RAK",
+    "name": {
+      "ru": "Марракеш",
+      "en": "Marrakech"
+    }
+  },
+  "/travel/mali/": {
+    "destination_iata": "BKO",
+    "name": {
+      "ru": "Бамако",
+      "en": "Bamako"
+    }
+  },
+  "/travel/madagascar/": {
+    "destination_iata": "TNR",
+    "name": {
+      "ru": "Антананариву",
+      "en": "Antananarivo"
+    }
+  },
+  "/travel/liberia/": {
+    "destination_iata": "MLW",
+    "name": {
+      "ru": "Монровия",
+      "en": "Monrovia"
+    }
+  },
+  "/travel/latvia/": {
+    "destination_iata": "RIX",
+    "name": {
+      "ru": "Рига",
+      "en": "Riga"
+    }
+  },
+  "/travel/south-korea/": {
+    "destination_iata": "SEL",
+    "name": {
+      "ru": "Сеул",
+      "en": "Seoul"
+    }
+  },
+  "/travel/north-korea/": {
+    "destination_iata": "FNJ",
+    "name": {
+      "ru": "Пхеньян",
+      "en": "Pyongyang"
+    }
+  },
+  "/travel/china/": {
+    "destination_iata": "BJS",
+    "name": {
+      "ru": "Пекин",
+      "en": "Beijing"
+    }
+  },
+  "/travel/canada/": {
+    "destination_iata": "YTO",
+    "name": {
+      "ru": "Торонто",
+      "en": "Toronto"
+    }
+  },
+  "/travel/kazakhstan/": {
+    "destination_iata": "TSE",
+    "name": {
+      "ru": "Астана",
+      "en": "Astana"
+    }
+  },
+  "/travel/italy/": {
+    "destination_iata": "ROM",
+    "name": {
+      "ru": "Рим",
+      "en": "Rome"
+    }
+  },
+  "/travel/spain/": {
+    "destination_iata": "MAD",
+    "name": {
+      "ru": "Мадрид",
+      "en": "Madrid"
+    }
+  },
+  "/travel/iran/": {
+    "destination_iata": "THR",
+    "name": {
+      "ru": "Тегеран",
+      "en": "Tehran"
+    }
+  },
+  "/travel/irak/": {
+    "destination_iata": "BGW",
+    "name": {
+      "ru": "Багдад",
+      "en": "Baghdad"
+    }
+  },
+  "/travel/india/": {
+    "destination_iata": "BOM",
+    "name": {
+      "ru": "Мумбаи",
+      "en": "Mumbai"
+    }
+  },
+  "/travel/israel/": {
+    "destination_iata": "TLV",
+    "name": {
+      "ru": "Тель-Авив",
+      "en": "Tel Aviv Yafo"
+    }
+  },
+  "/travel/egypt/": {
+    "destination_iata": "CAI",
+    "name": {
+      "ru": "Каир",
+      "en": "Cairo"
+    }
+  },
+  "/travel/dominican-republic/": {
+    "destination_iata": "SDQ",
+    "name": {
+      "ru": "Санто Доминго",
+      "en": "Santo Domingo"
+    }
+  },
+  "/travel/denmark/": {
+    "destination_iata": "CPH",
+    "name": {
+      "ru": "Копенгаген",
+      "en": "Copenhagen"
+    }
+  },
+  "/travel/greece/": {
+    "destination_iata": "ATH",
+    "name": {
+      "ru": "Афины",
+      "en": "Athens"
+    }
+  },
+  "/travel/hong-kong/": {
+    "destination_iata": "HKG",
+    "name": {
+      "ru": "Гонконг",
+      "en": "Hong Kong"
+    }
+  },
+  "/travel/germany/": {
+    "destination_iata": "BER",
+    "name": {
+      "ru": "Берлин",
+      "en": "Berlin"
+    }
+  },
+  "/travel/guatemala/": {
+    "destination_iata": "GUA",
+    "name": {
+      "ru": "Гватемала",
+      "en": "Guatemala City"
+    }
+  },
+  "/travel/vietnam/": {
+    "destination_iata": "HAN",
+    "name": {
+      "ru": "Ханой",
+      "en": "Hanoi"
+    }
+  },
+  "/travel/venezuela/": {
+    "destination_iata": "CCS",
+    "name": {
+      "ru": "Каракас",
+      "en": "Caracas"
+    }
+  },
+  "/travel/united-kingdom/": {
+    "destination_iata": "LON",
+    "name": {
+      "ru": "Лондон",
+      "en": "London"
+    }
+  },
+  "/travel/vatican/": {
+    "destination_iata": "ROM",
+    "name": {
+      "ru": "Рим",
+      "en": "Rome"
+    }
+  },
+  "/travel/brazil/": {
+    "destination_iata": "SAO",
+    "name": {
+      "ru": "Сан-Пауло",
+      "en": "Sao Paulo"
+    }
+  },
+  "/travel/bulgaria/": {
+    "destination_iata": "SOF",
+    "name": {
+      "ru": "София",
+      "en": "Sofia"
+    }
+  },
+  "/travel/benin/": {
+    "destination_iata": "COO",
+    "name": {
+      "ru": "Котону",
+      "en": "Cotonou"
+    }
+  },
+  "/travel/bangladesh/": {
+    "destination_iata": "DAC",
+    "name": {
+      "ru": "Дакка",
+      "en": "Dhaka"
+    }
+  },
+  "/travel/afghanistan/": {
+    "destination_iata": "KBL",
+    "name": {
+      "ru": "Кабул",
+      "en": "Kabul"
+    }
+  },
+  "/travel/armenia/": {
+    "destination_iata": "EVN",
+    "name": {
+      "ru": "Ереван",
+      "en": "Yerevan"
+    }
+  },
+  "/travel/andorra/": {
+    "destination_iata": "BCN",
+    "name": {
+      "ru": "Барселона",
+      "en": "Barcelona"
+    }
+  },
+  "/travel/albania/": {
+    "destination_iata": "TIA",
+    "name": {
+      "ru": "Тирана",
+      "en": "Tirana"
+    }
+  },
+  "/travel/azerbaijan/": {
+    "destination_iata": "GYD",
+    "name": {
+      "ru": "Heydar Aliyev International (Bina International)",
+      "en": "Heydar Aliyev International (Bina International)"
+    }
+  },
+  "/travel/austria/": {
+    "destination_iata": "VIE",
+    "name": {
+      "ru": "Вена",
+      "en": "Vienna"
+    }
+  },
+  "/travel/australia/": {
+    "destination_iata": "SYD",
+    "name": {
+      "ru": "Сидней",
+      "en": "Sydney"
+    }
+  },
+  "/travel/saba/": {
+    "destination_iata": "SAB",
+    "name": {
+      "ru": "Саба",
+      "en": "Saba Island"
+    }
+  },
+  "/travel/sint-eustatius/": {
+    "destination_iata": "EUX",
+    "name": {
+      "ru": "Синт Юстатиус",
+      "en": "St Eustatius"
+    }
+  },
+  "/travel/sint-maarten/": {
+    "destination_iata": "SXM",
+    "name": {
+      "ru": "Филипсбург",
+      "en": "Philipsburg"
+    }
+  },
+  "/travel/bahamas/": {
+    "destination_iata": "FPO",
+    "name": {
+      "ru": "Фрипорт",
+      "en": "Freeport"
+    }
+  },
+  "/travel/belize/": {
+    "destination_iata": "BZE",
+    "name": {
+      "ru": "Белиз",
+      "en": "Belize City"
+    }
+  },
+  "/travel/new-york.2013.05/": {
+    "destination_iata": "NYC",
+    "name": {
+      "ru": "Нью-Йорк",
+      "en": "New York"
+    }
+  },
+  "/travel/canada.2013/": {
+    "destination_iata": "YMQ",
+    "name": {
+      "ru": "Монреаль",
+      "en": "Montreal"
+    }
+  },
+  "/travel/phuket/": {
+    "destination_iata": "HKT",
+    "name": {
+      "ru": "Пхукет",
+      "en": "Phuket"
+    }
+  },
+  "/travel/dushanbe.2013/": {
+    "destination_iata": "DYU",
+    "name": {
+      "ru": "Душанбе",
+      "en": "Dushanbe"
+    }
+  },
+  "/travel/spb.2013.04.24-25/": {
+    "destination_iata": "LED",
+    "name": {
+      "ru": "Санкт-Петербург",
+      "en": "St Petersburg"
+    }
+  },
+  "/travel/afghanistan-2/": {
+    "destination_iata": "KBL",
+    "name": {
+      "ru": "Кабул",
+      "en": "Kabul"
+    }
+  },
+  "/travel/afghanistan-1/": {
+    "destination_iata": "KBL",
+    "name": {
+      "ru": "Кабул",
+      "en": "Kabul"
+    }
+  },
+  "/travel/kiev.2013.04.8-9/": {
+    "destination_iata": "KBP",
+    "name": {
+      "ru": "Киев",
+      "en": "Kiev"
+    }
+  },
+  "/travel/spb.2013.04.7-8/": {
+    "destination_iata": "LED",
+    "name": {
+      "ru": "Санкт-Петербург",
+      "en": "St Petersburg"
+    }
+  },
+  "/travel/malawi/": {
+    "destination_iata": "LLW",
+    "name": {
+      "ru": "Лилонгве",
+      "en": "Lilongwe"
+    }
+  },
+  "/travel/kenya/": {
+    "destination_iata": "NBO",
+    "name": {
+      "ru": "Найроби",
+      "en": "Nairobi"
+    }
+  },
+  "/travel/somalia/": {
+    "destination_iata": "MGQ",
+    "name": {
+      "ru": "Могадишо",
+      "en": "Mogadishu"
+    }
+  },
+  "/travel/somaliland-3/": {
+    "destination_iata": "BBO",
+    "name": {
+      "ru": "Бербера",
+      "en": "Berbera"
+    }
+  },
+  "/travel/somaliland-2/": {
+    "destination_iata": "BBO",
+    "name": {
+      "ru": "Бербера",
+      "en": "Berbera"
+    }
+  },
+  "/travel/somaliland-1/": {
+    "destination_iata": "BBO",
+    "name": {
+      "ru": "Бербера",
+      "en": "Berbera"
+    }
+  },
+  "/travel/jibouti/": {
+    "destination_iata": "JIB",
+    "name": {
+      "ru": "Джибути",
+      "en": "Djibouti"
+    }
+  },
+  "/travel/eritrea/": {
+    "destination_iata": "ASM",
+    "name": {
+      "ru": "Асмара",
+      "en": "Asmara"
+    }
+  },
+  "/travel/sudan/": {
+    "destination_iata": "KRT",
+    "name": {
+      "ru": "Хартум",
+      "en": "Khartoum"
+    }
+  },
+  "/travel/south-sudan/": {
+    "destination_iata": "JUB",
+    "name": {
+      "ru": "Джуба",
+      "en": "Juba"
+    }
+  },
+  "/travel/rwanda/": {
+    "destination_iata": "KGL",
+    "name": {
+      "ru": "Кигали",
+      "en": "Kigali"
+    }
+  },
+  "/travel/burundi/": {
+    "destination_iata": "BJM",
+    "name": {
+      "ru": "Бужумбура",
+      "en": "Bujumbura"
+    }
+  },
+  "/travel/uganda/": {
+    "destination_iata": "EBB",
+    "name": {
+      "ru": "Ентебе",
+      "en": "Entebbe"
+    }
+  },
+  "/travel/iran-2/": {
+    "destination_iata": "THR",
+    "name": {
+      "ru": "Тегеран",
+      "en": "Tehran"
+    }
+  },
+  "/travel/iran-1/": {
+    "destination_iata": "THR",
+    "name": {
+      "ru": "Тегеран",
+      "en": "Tehran"
+    }
+  },
+  "/travel/odessa.2013.02/": {
+    "destination_iata": "ODS",
+    "name": {
+      "ru": "Одесса",
+      "en": "Odessa"
+    }
+  },
+  "/travel/french-guiana/": {
+    "destination_iata": "CAY",
+    "name": {
+      "ru": "Кайенна",
+      "en": "Cayenne"
+    }
+  },
+  "/travel/martinique/": {
+    "destination_iata": "FDF",
+    "name": {
+      "ru": "Фор-де-Франс",
+      "en": "Fort De France"
+    }
+  },
+  "/travel/puerto-rico/": {
+    "destination_iata": "SJU",
+    "name": {
+      "ru": "Сан-Хуан",
+      "en": "San Juan"
+    }
+  },
+  "/travel/santo-domingo.2013/": {
+    "destination_iata": "SDQ",
+    "name": {
+      "ru": "Санто Доминго",
+      "en": "Santo Domingo"
+    }
+  },
+  "/travel/colombia/": {
+    "destination_iata": "BOG",
+    "name": {
+      "ru": "Богота",
+      "en": "Bogota"
+    }
+  },
+  "/travel/ecuador/": {
+    "destination_iata": "UIO",
+    "name": {
+      "ru": "Кито",
+      "en": "Quito"
+    }
+  },
+  "/travel/bolivia/": {
+    "destination_iata": "SRZ",
+    "name": {
+      "ru": "Санта-Круз",
+      "en": "Santa Cruz"
+    }
+  },
+  "/travel/peru-2/": {
+    "destination_iata": "LIM",
+    "name": {
+      "ru": "Лима",
+      "en": "Lima"
+    }
+  },
+  "/travel/peru-1/": {
+    "destination_iata": "LIM",
+    "name": {
+      "ru": "Лима",
+      "en": "Lima"
+    }
+  },
+  "/travel/kiev.2012.12/": {
+    "destination_iata": "KBP",
+    "name": {
+      "ru": "Киев",
+      "en": "Kiev"
+    }
+  },
+  "/travel/spb.2012.12/": {
+    "destination_iata": "LED",
+    "name": {
+      "ru": "Санкт-Петербург",
+      "en": "St Petersburg"
+    }
+  },
+  "/travel/severomorsk/": {
+    "destination_iata": "MMK",
+    "name": {
+      "ru": "Мурманск",
+      "en": "Murmansk"
+    }
+  },
+  "/travel/murmansk.2012/": {
+    "destination_iata": "MMK",
+    "name": {
+      "ru": "Мурманск",
+      "en": "Murmansk"
+    }
+  },
+  "/travel/haiti/": {
+    "destination_iata": "PAP",
+    "name": {
+      "ru": "Пор-О-Пренс",
+      "en": "Port Au Prince"
+    }
+  },
+  "/travel/dominicana/": {
+    "destination_iata": "SDQ",
+    "name": {
+      "ru": "Санто Доминго",
+      "en": "Santo Domingo"
+    }
+  },
+  "/travel/chile.2012/": {
+    "destination_iata": "SCL",
+    "name": {
+      "ru": "Сантьяго",
+      "en": "Santiago"
+    }
+  },
+  "/travel/guernsey/": {
+    "destination_iata": "CGI",
+    "name": {
+      "ru": "Кейп Джирардо",
+      "en": "Cape Girardeau"
+    }
+  },
+  "/travel/jersey/": {
+    "destination_iata": "JER",
+    "name": {
+      "ru": "Бейливик оф Джерси",
+      "en": "Jersey"
+    }
+  },
+  "/travel/london.2012/": {
+    "destination_iata": "LON",
+    "name": {
+      "ru": "Лондон",
+      "en": "London"
+    }
+  },
+  "/travel/isle-of-man/": {
+    "destination_iata": "IOM",
+    "name": {
+      "ru": "Айл оф Мэн",
+      "en": "Isle Of Man"
+    }
+  },
+  "/travel/gibraltar/": {
+    "destination_iata": "GIB",
+    "name": {
+      "ru": "Гибралтар",
+      "en": "Gibraltar"
+    }
+  },
+  "/travel/spain.2012/": {
+    "destination_iata": "BCN",
+    "name": {
+      "ru": "Барселона",
+      "en": "Barcelona"
+    }
+  },
+  "/travel/yaroslavl.2012/": {
+    "destination_iata": "IAR",
+    "name": {
+      "ru": "Ярославль",
+      "en": "Yaroslavl"
+    }
+  },
+  "/travel/mexp/": {
+    "destination_iata": "MOW",
+    "name": {
+      "ru": "Москва",
+      "en": "Moscow"
+    }
+  },
+  "/travel/marianas/": {
+    "destination_iata": "SPN",
+    "name": {
+      "ru": "Обьян",
+      "en": "Saipan"
+    }
+  },
+  "/travel/marshall-islands/": {
+    "destination_iata": "MAJ",
+    "name": {
+      "ru": "Маджуро",
+      "en": "Majuro"
+    }
+  },
+  "/travel/guam/": {
+    "destination_iata": "GUM",
+    "name": {
+      "ru": "Хагатна",
+      "en": "Agana"
+    }
+  },
+  "/travel/micronesia/": {
+    "destination_iata": "PNI",
+    "name": {
+      "ru": "Понпеи",
+      "en": "Pohnpei"
+    }
+  },
+  "/travel/palau/": {
+    "destination_iata": "ROR",
+    "name": {
+      "ru": "Корор",
+      "en": "Koror"
+    }
+  },
+  "/travel/philippines-2/": {
+    "destination_iata": "MNL",
+    "name": {
+      "ru": "Манила",
+      "en": "Manila"
+    }
+  },
+  "/travel/philippines-1/": {
+    "destination_iata": "MNL",
+    "name": {
+      "ru": "Манила",
+      "en": "Manila"
+    }
+  },
+  "/travel/odessa.2012.09/": {
+    "destination_iata": "ODS",
+    "name": {
+      "ru": "Одесса",
+      "en": "Odessa"
+    }
+  },
+  "/travel/ankara/": {
+    "destination_iata": "ANK",
+    "name": {
+      "ru": "Анкара",
+      "en": "Ankara"
+    }
+  },
+  "/travel/izmir/": {
+    "destination_iata": "IZM",
+    "name": {
+      "ru": "Измир",
+      "en": "Izmir"
+    }
+  },
+  "/travel/nakhchivan/": {
+    "destination_iata": "NAJ",
+    "name": {
+      "ru": "Нахичевань",
+      "en": "Nakhichevan"
+    }
+  },
+  "/travel/maldives/": {
+    "destination_iata": "MLE",
+    "name": {
+      "ru": "Мале",
+      "en": "Male"
+    }
+  },
+  "/travel/sri-lanka-2/": {
+    "destination_iata": "CMB",
+    "name": {
+      "ru": "Коломбо",
+      "en": "Colombo"
+    }
+  },
+  "/travel/sri-lanka-1/": {
+    "destination_iata": "CMB",
+    "name": {
+      "ru": "Коломбо",
+      "en": "Colombo"
+    }
+  },
+  "/travel/pereslavl-zalessky.2012/": {
+    "destination_iata": "IAR",
+    "name": {
+      "ru": "Ярославль",
+      "en": "Yaroslavl"
+    }
+  },
+  "/travel/hong-kong.2012.08/": {
+    "destination_iata": "HKG",
+    "name": {
+      "ru": "Гонконг",
+      "en": "Hong Kong"
+    }
+  },
+  "/travel/spb.2012.07/": {
+    "destination_iata": "LED",
+    "name": {
+      "ru": "Санкт-Петербург",
+      "en": "St Petersburg"
+    }
+  },
+  "/travel/aland/": {
+    "destination_iata": "MHQ",
+    "name": {
+      "ru": "Мариехамн",
+      "en": "Mariehamn"
+    }
+  },
+  "/travel/stockholm.2012/": {
+    "destination_iata": "STO",
+    "name": {
+      "ru": "Стокгольм",
+      "en": "Stockholm"
+    }
+  },
+  "/travel/faroes/": {
+    "destination_iata": "FAE",
+    "name": {
+      "ru": "Сорвагур",
+      "en": "Sorvágur"
+    }
+  },
+  "/travel/copenhagen.2012/": {
+    "destination_iata": "CPH",
+    "name": {
+      "ru": "Копенгаген",
+      "en": "Copenhagen"
+    }
+  },
+  "/travel/vlasikha/": {
+    "destination_iata": "MOW",
+    "name": {
+      "ru": "Москва",
+      "en": "Moscow"
+    }
+  },
+  "/travel/perm.2012.07/": {
+    "destination_iata": "PEE",
+    "name": {
+      "ru": "Пермь",
+      "en": "Perm"
+    }
+  },
+  "/travel/israel.2012/": {
+    "destination_iata": "TLV",
+    "name": {
+      "ru": "Тель-Авив",
+      "en": "Tel Aviv Yafo"
+    }
+  },
+  "/travel/kiev.2012.07/": {
+    "destination_iata": "KBP",
+    "name": {
+      "ru": "Киев",
+      "en": "Kiev"
+    }
+  },
+  "/travel/germany.2012/": {
+    "destination_iata": "BER",
+    "name": {
+      "ru": "Берлин",
+      "en": "Berlin"
+    }
+  },
+  "/travel/bexp-12/": {
+    "destination_iata": "LJU",
+    "name": {
+      "ru": "Любляна",
+      "en": "Ljubljana"
+    }
+  },
+  "/travel/bexp-11/": {
+    "destination_iata": "BEG",
+    "name": {
+      "ru": "Белград",
+      "en": "Belgrade"
+    }
+  },
+  "/travel/bexp-10/": {
+    "destination_iata": "BUH",
+    "name": {
+      "ru": "Бухарест",
+      "en": "Bucharest"
+    }
+  },
+  "/travel/bexp-9/": {
+    "destination_iata": "BUH",
+    "name": {
+      "ru": "Бухарест",
+      "en": "Bucharest"
+    }
+  },
+  "/travel/bexp-8/": {
+    "destination_iata": "BUH",
+    "name": {
+      "ru": "Бухарест",
+      "en": "Bucharest"
+    }
+  },
+  "/travel/bexp-7/": {
+    "destination_iata": "SOF",
+    "name": {
+      "ru": "София",
+      "en": "Sofia"
+    }
+  },
+  "/travel/bexp-6/": {
+    "destination_iata": "SKP",
+    "name": {
+      "ru": "Скопье",
+      "en": "Skopje"
+    }
+  },
+  "/travel/bexp-5/": {
+    "destination_iata": "PRN",
+    "name": {
+      "ru": "Приштина",
+      "en": "Pristina"
+    }
+  },
+  "/travel/bexp-4/": {
+    "destination_iata": "TIA",
+    "name": {
+      "ru": "Тирана",
+      "en": "Tirana"
+    }
+  },
+  "/travel/bexp-3/": {
+    "destination_iata": "TIV",
+    "name": {
+      "ru": "Тиват",
+      "en": "Tivat"
+    }
+  },
+  "/travel/bexp-2/": {
+    "destination_iata": "SJJ",
+    "name": {
+      "ru": "Сараево",
+      "en": "Sarajevo"
+    }
+  },
+  "/travel/bexp-1/": {
+    "destination_iata": "ZAG",
+    "name": {
+      "ru": "Загреб",
+      "en": "Zagreb"
+    }
+  },
+  "/travel/italy.2012/": {
+    "destination_iata": "ROM",
+    "name": {
+      "ru": "Рим",
+      "en": "Rome"
+    }
+  },
+  "/travel/smom/": {
+    "destination_iata": "ROM",
+    "name": {
+      "ru": "Рим",
+      "en": "Rome"
+    }
+  },
+  "/travel/spb.2012.05/": {
+    "destination_iata": "LED",
+    "name": {
+      "ru": "Санкт-Петербург",
+      "en": "St Petersburg"
+    }
+  },
+  "/travel/mali-3/": {
+    "destination_iata": "BKO",
+    "name": {
+      "ru": "Бамако",
+      "en": "Bamako"
+    }
+  },
+  "/travel/mali-2/": {
+    "destination_iata": "BKO",
+    "name": {
+      "ru": "Бамако",
+      "en": "Bamako"
+    }
+  },
+  "/travel/mali-1/": {
+    "destination_iata": "BKO",
+    "name": {
+      "ru": "Бамако",
+      "en": "Bamako"
+    }
+  },
+  "/travel/burkina-faso/": {
+    "destination_iata": "OUA",
+    "name": {
+      "ru": "Уагадугу",
+      "en": "Ouagadougou"
+    }
+  },
+  "/travel/niger/": {
+    "destination_iata": "NIM",
+    "name": {
+      "ru": "Ниамей",
+      "en": "Niamey"
+    }
+  },
+  "/travel/benin-2/": {
+    "destination_iata": "COO",
+    "name": {
+      "ru": "Котону",
+      "en": "Cotonou"
+    }
+  },
+  "/travel/benin-1/": {
+    "destination_iata": "COO",
+    "name": {
+      "ru": "Котону",
+      "en": "Cotonou"
+    }
+  },
+  "/travel/togo/": {
+    "destination_iata": "LFW",
+    "name": {
+      "ru": "Ломе",
+      "en": "Lome"
+    }
+  },
+  "/travel/ghana/": {
+    "destination_iata": "ACC",
+    "name": {
+      "ru": "Аккра",
+      "en": "Accra"
+    }
+  },
+  "/travel/lagos/": {
+    "destination_iata": "LOS",
+    "name": {
+      "ru": "Лагос",
+      "en": "Lagos"
+    }
+  },
+  "/travel/iraq-3/": {
+    "destination_iata": "BGW",
+    "name": {
+      "ru": "Багдад",
+      "en": "Baghdad"
+    }
+  },
+  "/travel/iraq-2/": {
+    "destination_iata": "BGW",
+    "name": {
+      "ru": "Багдад",
+      "en": "Baghdad"
+    }
+  },
+  "/travel/iraq-1/": {
+    "destination_iata": "BGW",
+    "name": {
+      "ru": "Багдад",
+      "en": "Baghdad"
+    }
+  },
+  "/travel/spb.2012.04/": {
+    "destination_iata": "LED",
+    "name": {
+      "ru": "Санкт-Петербург",
+      "en": "St Petersburg"
+    }
+  },
+  "/travel/spring-ukraine/": {
+    "destination_iata": "ODS",
+    "name": {
+      "ru": "Одесса",
+      "en": "Odessa"
+    }
+  },
+  "/travel/chexp-4/": {
+    "destination_iata": "DYR",
+    "name": {
+      "ru": "Анадырь",
+      "en": "Anadyr"
+    }
+  },
+  "/travel/chexp-3/": {
+    "destination_iata": "DYR",
+    "name": {
+      "ru": "Анадырь",
+      "en": "Anadyr"
+    }
+  },
+  "/travel/chexp-2/": {
+    "destination_iata": "DYR",
+    "name": {
+      "ru": "Анадырь",
+      "en": "Anadyr"
+    }
+  },
+  "/travel/chexp-1/": {
+    "destination_iata": "DYR",
+    "name": {
+      "ru": "Анадырь",
+      "en": "Anadyr"
+    }
+  },
+  "/travel/northern-cyprus/": {
+    "destination_iata": "ECN",
+    "name": {
+      "ru": "Никосия",
+      "en": "Lefkosa"
+    }
+  },
+  "/travel/spb.2012.02/": {
+    "destination_iata": "LED",
+    "name": {
+      "ru": "Санкт-Петербург",
+      "en": "St Petersburg"
+    }
+  },
+  "/travel/kiev.2012.02/": {
+    "destination_iata": "KBP",
+    "name": {
+      "ru": "Киев",
+      "en": "Kiev"
+    }
+  },
+  "/travel/seychelles/": {
+    "destination_iata": "SEZ",
+    "name": {
+      "ru": "Маэ",
+      "en": "Mahe Island"
+    }
+  },
+  "/travel/mauritius/": {
+    "destination_iata": "MRU",
+    "name": {
+      "ru": "Плаисанс",
+      "en": "Plaisance"
+    }
+  },
+  "/travel/reunion/": {
+    "destination_iata": "RUN",
+    "name": {
+      "ru": "Сент Денис де ла Реюньон",
+      "en": "St Denis de la Reunion"
+    }
+  },
+  "/travel/mayotte/": {
+    "destination_iata": "DZA",
+    "name": {
+      "ru": "Мамудзу",
+      "en": "Dzaoudzi"
+    }
+  },
+  "/travel/madagascar-3/": {
+    "destination_iata": "TNR",
+    "name": {
+      "ru": "Антананариву",
+      "en": "Antananarivo"
+    }
+  },
+  "/travel/madagascar-2/": {
+    "destination_iata": "TNR",
+    "name": {
+      "ru": "Антананариву",
+      "en": "Antananarivo"
+    }
+  },
+  "/travel/madagascar-1/": {
+    "destination_iata": "TNR",
+    "name": {
+      "ru": "Антананариву",
+      "en": "Antananarivo"
+    }
+  },
+  "/travel/comoros/": {
+    "destination_iata": "HAH",
+    "name": {
+      "ru": "Prince Said Ibrahim In",
+      "en": "Prince Said Ibrahim In"
+    }
+  },
+  "/travel/kiev.2011.12/": {
+    "destination_iata": "KBP",
+    "name": {
+      "ru": "Киев",
+      "en": "Kiev"
+    }
+  },
+  "/travel/kishinev.2011/": {
+    "destination_iata": "KIV",
+    "name": {
+      "ru": "Кишинёв",
+      "en": "Chisinau"
+    }
+  },
+  "/travel/transnistria/": {
+    "destination_iata": "KIV",
+    "name": {
+      "ru": "Кишинёв",
+      "en": "Chisinau"
+    }
+  },
+  "/travel/perm.2011.12/": {
+    "destination_iata": "PEE",
+    "name": {
+      "ru": "Пермь",
+      "en": "Perm"
+    }
+  },
+  "/travel/new-york.2011.11/": {
+    "destination_iata": "NYC",
+    "name": {
+      "ru": "Нью-Йорк",
+      "en": "New York"
+    }
+  },
+  "/travel/riga.2011/": {
+    "destination_iata": "RIX",
+    "name": {
+      "ru": "Рига",
+      "en": "Riga"
+    }
+  },
+  "/travel/pakistan-3/": {
+    "destination_iata": "LHE",
+    "name": {
+      "ru": "Лахоре",
+      "en": "Lahore"
+    }
+  },
+  "/travel/pakistan-2/": {
+    "destination_iata": "ISB",
+    "name": {
+      "ru": "Исламабад",
+      "en": "Islamabad"
+    }
+  },
+  "/travel/pakistan-1/": {
+    "destination_iata": "ISB",
+    "name": {
+      "ru": "Исламабад",
+      "en": "Islamabad"
+    }
+  },
+  "/travel/tallinn.2011/": {
+    "destination_iata": "TLL",
+    "name": {
+      "ru": "Таллинн",
+      "en": "Tallinn"
+    }
+  },
+  "/travel/perm.2011.10-11/": {
+    "destination_iata": "PEE",
+    "name": {
+      "ru": "Пермь",
+      "en": "Perm"
+    }
+  },
+  "/travel/spb.2011.10.27-28/": {
+    "destination_iata": "LED",
+    "name": {
+      "ru": "Санкт-Петербург",
+      "en": "St Petersburg"
+    }
+  },
+  "/travel/guangzhou.2011.10/": {
+    "destination_iata": "CAN",
+    "name": {
+      "ru": "Гуанчжоу",
+      "en": "Guangzhou"
+    }
+  },
+  "/travel/krasnoznamensk/": {
+    "destination_iata": "MOW",
+    "name": {
+      "ru": "Москва",
+      "en": "Moscow"
+    }
+  },
+  "/travel/kiev.2011.10/": {
+    "destination_iata": "KBP",
+    "name": {
+      "ru": "Киев",
+      "en": "Kiev"
+    }
+  },
+  "/travel/spb.2011.10/": {
+    "destination_iata": "LED",
+    "name": {
+      "ru": "Санкт-Петербург",
+      "en": "St Petersburg"
+    }
+  },
+  "/travel/tuvalu/": {
+    "destination_iata": "FUN",
+    "name": {
+      "ru": "Фунафути",
+      "en": "Funafuti Atoll"
+    }
+  },
+  "/travel/tonga/": {
+    "destination_iata": "TBU",
+    "name": {
+      "ru": "Нукуалофа",
+      "en": "Nuku'alofa"
+    }
+  },
+  "/travel/french-polynesia/": {
+    "destination_iata": "PPT",
+    "name": {
+      "ru": "Папеэте",
+      "en": "Papeete"
+    }
+  },
+  "/travel/capri-sardinia/": {
+    "destination_iata": "CAG",
+    "name": {
+      "ru": "Кальяри",
+      "en": "Cagliari"
+    }
+  },
+  "/travel/promenade.2011.08/": {
+    "destination_iata": "MOW",
+    "name": {
+      "ru": "Москва",
+      "en": "Moscow"
+    }
+  },
+  "/travel/zhukovsky/": {
+    "destination_iata": "MOW",
+    "name": {
+      "ru": "Москва",
+      "en": "Moscow"
+    }
+  },
+  "/travel/new-york.2011.08/": {
+    "destination_iata": "NYC",
+    "name": {
+      "ru": "Нью-Йорк",
+      "en": "New York"
+    }
+  },
+  "/travel/spb.2011.08/": {
+    "destination_iata": "LED",
+    "name": {
+      "ru": "Санкт-Петербург",
+      "en": "St Petersburg"
+    }
+  },
+  "/travel/ree-7/": {
+    "destination_iata": "VOG",
+    "name": {
+      "ru": "Волгоград",
+      "en": "Volgograd"
+    }
+  },
+  "/travel/ree-6/": {
+    "destination_iata": "RTW",
+    "name": {
+      "ru": "Саратов",
+      "en": "Saratov"
+    }
+  },
+  "/travel/ree-5/": {
+    "destination_iata": "KUF",
+    "name": {
+      "ru": "Самара",
+      "en": "Samara"
+    }
+  },
+  "/travel/ree-4/": {
+    "destination_iata": "ULV",
+    "name": {
+      "ru": "Ульяновск",
+      "en": "Baratayevka"
+    }
+  },
+  "/travel/ree-3/": {
+    "destination_iata": "KZN",
+    "name": {
+      "ru": "Казань",
+      "en": "Kazan"
+    }
+  },
+  "/travel/ree-2/": {
+    "destination_iata": "IAR",
+    "name": {
+      "ru": "Ярославль",
+      "en": "Yaroslavl"
+    }
+  },
+  "/travel/ree-1/": {
+    "destination_iata": "MOW",
+    "name": {
+      "ru": "Москва",
+      "en": "Moscow"
+    }
+  },
+  "/travel/kiev.2011.06/": {
+    "destination_iata": "KBP",
+    "name": {
+      "ru": "Киев",
+      "en": "Kiev"
+    }
+  },
+  "/travel/perm.2011.06/": {
+    "destination_iata": "PEE",
+    "name": {
+      "ru": "Пермь",
+      "en": "Perm"
+    }
+  },
+  "/travel/italy.2011.06/": {
+    "destination_iata": "MIL",
+    "name": {
+      "ru": "Милан",
+      "en": "Milan"
+    }
+  },
+  "/travel/malta/": {
+    "destination_iata": "MLA",
+    "name": {
+      "ru": "Гуджа",
+      "en": "Gudja"
+    }
+  },
+  "/travel/san-marino/": {
+    "destination_iata": "SAI",
+    "name": {
+      "ru": "",
+      "en": ""
+    }
+  },
+  "/travel/serpukhov.2011/": {
+    "destination_iata": "MOW",
+    "name": {
+      "ru": "Москва",
+      "en": "Moscow"
+    }
+  },
+  "/travel/botswana/": {
+    "destination_iata": "GBE",
+    "name": {
+      "ru": "Габороне",
+      "en": "Gaborone"
+    }
+  },
+  "/travel/zimbabwe/": {
+    "destination_iata": "HRE",
+    "name": {
+      "ru": "Хараре",
+      "en": "Harare"
+    }
+  },
+  "/travel/mozambique/": {
+    "destination_iata": "MPM",
+    "name": {
+      "ru": "Мапуто",
+      "en": "Maputo"
+    }
+  },
+  "/travel/ethiopia-2/": {
+    "destination_iata": "ADD",
+    "name": {
+      "ru": "Аддис-Абеба",
+      "en": "Addis Ababa"
+    }
+  },
+  "/travel/ethiopia-1/": {
+    "destination_iata": "ADD",
+    "name": {
+      "ru": "Аддис-Абеба",
+      "en": "Addis Ababa"
+    }
+  },
+  "/travel/tanzania/": {
+    "destination_iata": "DAR",
+    "name": {
+      "ru": "Дар-эс-Салам",
+      "en": "Dar Es Salaam"
+    }
+  },
+  "/travel/tver.2011.04/": {
+    "destination_iata": "KLD",
+    "name": {
+      "ru": "Тверь",
+      "en": "Tver"
+    }
+  },
+  "/travel/guangzhou.2011.04/": {
+    "destination_iata": "CAN",
+    "name": {
+      "ru": "Гуанчжоу",
+      "en": "Guangzhou"
+    }
+  },
+  "/travel/hong-kong.2011.04/": {
+    "destination_iata": "HKG",
+    "name": {
+      "ru": "Гонконг",
+      "en": "Hong Kong"
+    }
+  },
+  "/travel/perm.2011.04/": {
+    "destination_iata": "PEE",
+    "name": {
+      "ru": "Пермь",
+      "en": "Perm"
+    }
+  },
+  "/travel/odessa.2011.04/": {
+    "destination_iata": "ODS",
+    "name": {
+      "ru": "Одесса",
+      "en": "Odessa"
+    }
+  },
+  "/travel/taimyretnoexp-3/": {
+    "destination_iata": "NSK",
+    "name": {
+      "ru": "Норильск",
+      "en": "Norilsk"
+    }
+  },
+  "/travel/taimyretnoexp-2/": {
+    "destination_iata": "NSK",
+    "name": {
+      "ru": "Норильск",
+      "en": "Norilsk"
+    }
+  },
+  "/travel/taimyretnoexp-1/": {
+    "destination_iata": "NSK",
+    "name": {
+      "ru": "Норильск",
+      "en": "Norilsk"
+    }
+  },
+  "/travel/yakutetnoexp-4/": {
+    "destination_iata": "YKS",
+    "name": {
+      "ru": "Якутск",
+      "en": "Yakutsk"
+    }
+  },
+  "/travel/yakutetnoexp-3/": {
+    "destination_iata": "MJZ",
+    "name": {
+      "ru": "Мирный",
+      "en": "Mirnyj"
+    }
+  },
+  "/travel/yakutetnoexp-2/": {
+    "destination_iata": "YKS",
+    "name": {
+      "ru": "Якутск",
+      "en": "Yakutsk"
+    }
+  },
+  "/travel/yakutetnoexp-1/": {
+    "destination_iata": "NER",
+    "name": {
+      "ru": "Нерюнгри",
+      "en": "Neryungri"
+    }
+  },
+  "/travel/kronshtadt.2011/": {
+    "destination_iata": "LED",
+    "name": {
+      "ru": "Санкт-Петербург",
+      "en": "St Petersburg"
+    }
+  },
+  "/travel/spb.2011.02/": {
+    "destination_iata": "LED",
+    "name": {
+      "ru": "Санкт-Петербург",
+      "en": "St Petersburg"
+    }
+  },
+  "/travel/perm.2011.01/": {
+    "destination_iata": "PEE",
+    "name": {
+      "ru": "Пермь",
+      "en": "Perm"
+    }
+  },
+  "/travel/odessa.2011.01/": {
+    "destination_iata": "ODS",
+    "name": {
+      "ru": "Одесса",
+      "en": "Odessa"
+    }
+  },
+  "/travel/panama/": {
+    "destination_iata": "PTY",
+    "name": {
+      "ru": "Панама",
+      "en": "Panama City"
+    }
+  },
+  "/travel/costa-rica/": {
+    "destination_iata": "SJO",
+    "name": {
+      "ru": "Сан-Хосе",
+      "en": "San José"
+    }
+  },
+  "/travel/nicaragua/": {
+    "destination_iata": "MGA",
+    "name": {
+      "ru": "Манагуа",
+      "en": "Managua"
+    }
+  },
+  "/travel/el-salvador/": {
+    "destination_iata": "SAL",
+    "name": {
+      "ru": "Сан Сальвадор",
+      "en": "San Salvador"
+    }
+  },
+  "/travel/honduras/": {
+    "destination_iata": "TGU",
+    "name": {
+      "ru": "Тегусигальпа",
+      "en": "Tegucigalpa"
+    }
+  },
+  "/travel/guatemala-2/": {
+    "destination_iata": "GUA",
+    "name": {
+      "ru": "Гватемала",
+      "en": "Guatemala City"
+    }
+  },
+  "/travel/guatemala-1/": {
+    "destination_iata": "GUA",
+    "name": {
+      "ru": "Гватемала",
+      "en": "Guatemala City"
+    }
+  },
+  "/travel/istanbul.2010.12/": {
+    "destination_iata": "IST",
+    "name": {
+      "ru": "Стамбул",
+      "en": "Istanbul"
+    }
+  },
+  "/travel/kiev.2010.12/": {
+    "destination_iata": "KBP",
+    "name": {
+      "ru": "Киев",
+      "en": "Kiev"
+    }
+  },
+  "/travel/rostov/": {
+    "destination_iata": "ROV",
+    "name": {
+      "ru": "Ростов-на-Дону",
+      "en": "Rostov"
+    }
+  },
+  "/travel/kaluga.2010.12/": {
+    "destination_iata": "KLF",
+    "name": {
+      "ru": "Калуга",
+      "en": "Kaluga"
+    }
+  },
+  "/travel/perm.2010.12/": {
+    "destination_iata": "PEE",
+    "name": {
+      "ru": "Пермь",
+      "en": "Perm"
+    }
+  },
+  "/travel/spb.2010.11/": {
+    "destination_iata": "LED",
+    "name": {
+      "ru": "Санкт-Петербург",
+      "en": "St Petersburg"
+    }
+  },
+  "/travel/cote-d-ivoire/": {
+    "destination_iata": "ABJ",
+    "name": {
+      "ru": "Абиджан",
+      "en": "Abidjan"
+    }
+  },
+  "/travel/guinea/": {
+    "destination_iata": "CKY",
+    "name": {
+      "ru": "Конакри",
+      "en": "Conakry"
+    }
+  },
+  "/travel/sierra-leone/": {
+    "destination_iata": "FNA",
+    "name": {
+      "ru": "Фритаун",
+      "en": "Freetown"
+    }
+  },
+  "/travel/liberia-2/": {
+    "destination_iata": "MLW",
+    "name": {
+      "ru": "Монровия",
+      "en": "Monrovia"
+    }
+  },
+  "/travel/liberia-1/": {
+    "destination_iata": "MLW",
+    "name": {
+      "ru": "Монровия",
+      "en": "Monrovia"
+    }
+  },
+  "/travel/perm.2010.11/": {
+    "destination_iata": "PEE",
+    "name": {
+      "ru": "Пермь",
+      "en": "Perm"
+    }
+  },
+  "/travel/eindhoven/": {
+    "destination_iata": "EIN",
+    "name": {
+      "ru": "Эйндховен",
+      "en": "Eindhoven"
+    }
+  },
+  "/travel/canary/": {
+    "destination_iata": "LPA",
+    "name": {
+      "ru": "Лас-Пальмас",
+      "en": "Las Palmas"
+    }
+  },
+  "/travel/dmitrov/": {
+    "destination_iata": "MOW",
+    "name": {
+      "ru": "Москва",
+      "en": "Moscow"
+    }
+  },
+  "/travel/shanghai.2010/": {
+    "destination_iata": "PVG",
+    "name": {
+      "ru": "Шанхай (Пудун)",
+      "en": "Shanghai Pudong International"
+    }
+  },
+  "/travel/perm.2010.09/": {
+    "destination_iata": "PEE",
+    "name": {
+      "ru": "Пермь",
+      "en": "Perm"
+    }
+  },
+  "/travel/kaluga.2010/": {
+    "destination_iata": "MOW",
+    "name": {
+      "ru": "Москва",
+      "en": "Moscow"
+    }
+  },
+  "/travel/andorra.2010/": {
+    "destination_iata": "BCN",
+    "name": {
+      "ru": "Барселона",
+      "en": "Barcelona"
+    }
+  },
+  "/travel/spain.2010/": {
+    "destination_iata": "BCN",
+    "name": {
+      "ru": "Барселона",
+      "en": "Barcelona"
+    }
+  },
+  "/travel/kavkazetnoexp-13/": {
+    "destination_iata": "TSE",
+    "name": {
+      "ru": "Астана",
+      "en": "Astana"
+    }
+  },
+  "/travel/kavkazetnoexp-12/": {
+    "destination_iata": "TSE",
+    "name": {
+      "ru": "Астана",
+      "en": "Astana"
+    }
+  },
+  "/travel/kavkazetnoexp-11/": {
+    "destination_iata": "ASF",
+    "name": {
+      "ru": "Астрахань",
+      "en": "Astrakhan"
+    }
+  },
+  "/travel/kavkazetnoexp-10/": {
+    "destination_iata": "EVN",
+    "name": {
+      "ru": "Ереван",
+      "en": "Yerevan"
+    }
+  },
+  "/travel/kavkazetnoexp-9/": {
+    "destination_iata": "EVN",
+    "name": {
+      "ru": "Ереван",
+      "en": "Yerevan"
+    }
+  },
+  "/travel/kavkazetnoexp-8/": {
+    "destination_iata": "EVN",
+    "name": {
+      "ru": "Ереван",
+      "en": "Yerevan"
+    }
+  },
+  "/travel/kavkazetnoexp-7/": {
+    "destination_iata": "EVN",
+    "name": {
+      "ru": "Ереван",
+      "en": "Yerevan"
+    }
+  },
+  "/travel/kavkazetnoexp-6/": {
+    "destination_iata": "BUS",
+    "name": {
+      "ru": "Батуми",
+      "en": "Batumi"
+    }
+  },
+  "/travel/kavkazetnoexp-5/": {
+    "destination_iata": "TBS",
+    "name": {
+      "ru": "Тбилиси",
+      "en": "Tbilisi"
+    }
+  },
+  "/travel/kavkazetnoexp-4/": {
+    "destination_iata": "GYD",
+    "name": {
+      "ru": "Heydar Aliyev International (Bina International)",
+      "en": "Heydar Aliyev International (Bina International)"
+    }
+  },
+  "/travel/kavkazetnoexp-3/": {
+    "destination_iata": "GYD",
+    "name": {
+      "ru": "Heydar Aliyev International (Bina International)",
+      "en": "Heydar Aliyev International (Bina International)"
+    }
+  },
+  "/travel/kavkazetnoexp-2/": {
+    "destination_iata": "NAL",
+    "name": {
+      "ru": "Нальчик",
+      "en": "Nalchik"
+    }
+  },
+  "/travel/kavkazetnoexp-1/": {
+    "destination_iata": "ROV",
+    "name": {
+      "ru": "Ростов-на-Дону",
+      "en": "Rostov"
+    }
+  },
+  "/travel/london.2010.07/": {
+    "destination_iata": "LON",
+    "name": {
+      "ru": "Лондон",
+      "en": "London"
+    }
+  },
+  "/travel/donetsk.2010.07/": {
+    "destination_iata": "DOK",
+    "name": {
+      "ru": "Донецк",
+      "en": "Donetsk"
+    }
+  },
+  "/travel/spb.2010.06/": {
+    "destination_iata": "LED",
+    "name": {
+      "ru": "Санкт-Петербург",
+      "en": "St Petersburg"
+    }
+  },
+  "/travel/zvezdny-perm/": {
+    "destination_iata": "PEE",
+    "name": {
+      "ru": "Пермь",
+      "en": "Perm"
+    }
+  },
+  "/travel/perm.2010.05/": {
+    "destination_iata": "PEE",
+    "name": {
+      "ru": "Пермь",
+      "en": "Perm"
+    }
+  },
+  "/travel/donetsk.2010.05/": {
+    "destination_iata": "DOK",
+    "name": {
+      "ru": "Донецк",
+      "en": "Donetsk"
+    }
+  },
+  "/travel/hurghada/": {
+    "destination_iata": "HRG",
+    "name": {
+      "ru": "Хургада",
+      "en": "Hurghada"
+    }
+  },
+  "/travel/ireland/": {
+    "destination_iata": "DUB",
+    "name": {
+      "ru": "Дублин",
+      "en": "Dublin"
+    }
+  },
+  "/travel/northern-ireland/": {
+    "destination_iata": "BFS",
+    "name": {
+      "ru": "Белфаст",
+      "en": "Belfast"
+    }
+  },
+  "/travel/iceland/": {
+    "destination_iata": "REK",
+    "name": {
+      "ru": "Рейкьявик",
+      "en": "Reykjavik"
+    }
+  },
+  "/travel/hong-kong.2010.04/": {
+    "destination_iata": "HKG",
+    "name": {
+      "ru": "Гонконг",
+      "en": "Hong Kong"
+    }
+  },
+  "/travel/perm.2010.04/": {
+    "destination_iata": "PEE",
+    "name": {
+      "ru": "Пермь",
+      "en": "Perm"
+    }
+  },
+  "/travel/alaska/": {
+    "destination_iata": "ANC",
+    "name": {
+      "ru": "Анкоридж",
+      "en": "Anchorage"
+    }
+  },
+  "/travel/new-york.2010/": {
+    "destination_iata": "NYC",
+    "name": {
+      "ru": "Нью-Йорк",
+      "en": "New York"
+    }
+  },
+  "/travel/kiev.2010.03/": {
+    "destination_iata": "KBP",
+    "name": {
+      "ru": "Киев",
+      "en": "Kiev"
+    }
+  },
+  "/travel/yegoryevsk/": {
+    "destination_iata": "MOW",
+    "name": {
+      "ru": "Москва",
+      "en": "Moscow"
+    }
+  },
+  "/travel/perm.2010.03.12-15/": {
+    "destination_iata": "PEE",
+    "name": {
+      "ru": "Пермь",
+      "en": "Perm"
+    }
+  },
+  "/travel/perm.2010.03.01-02/": {
+    "destination_iata": "PEE",
+    "name": {
+      "ru": "Пермь",
+      "en": "Perm"
+    }
+  },
+  "/travel/kiev.2010.02/": {
+    "destination_iata": "KBP",
+    "name": {
+      "ru": "Киев",
+      "en": "Kiev"
+    }
+  },
+  "/travel/spb.2010.02/": {
+    "destination_iata": "LED",
+    "name": {
+      "ru": "Санкт-Петербург",
+      "en": "St Petersburg"
+    }
+  },
+  "/travel/berezniki-solikamsk/": {
+    "destination_iata": "PEE",
+    "name": {
+      "ru": "Пермь",
+      "en": "Perm"
+    }
+  },
+  "/travel/bobrinets/": {
+    "destination_iata": "KBP",
+    "name": {
+      "ru": "Киев",
+      "en": "Kiev"
+    }
+  },
+  "/travel/cambodia/": {
+    "destination_iata": "PNH",
+    "name": {
+      "ru": "Пном-Пень",
+      "en": "Phnom Penh"
+    }
+  },
+  "/travel/laos/": {
+    "destination_iata": "VTE",
+    "name": {
+      "ru": "Вьентьян",
+      "en": "Vientiane"
+    }
+  },
+  "/travel/vietnam-2/": {
+    "destination_iata": "HAN",
+    "name": {
+      "ru": "Ханой",
+      "en": "Hanoi"
+    }
+  },
+  "/travel/vietnam-1/": {
+    "destination_iata": "HAN",
+    "name": {
+      "ru": "Ханой",
+      "en": "Hanoi"
+    }
+  },
+  "/travel/coucoussique-promenade-2/": {
+    "destination_iata": "GOJ",
+    "name": {
+      "ru": "Нижний Новгород",
+      "en": "Nizhniy Novgorod"
+    }
+  },
+  "/travel/coucoussique-promenade-1/": {
+    "destination_iata": "PEE",
+    "name": {
+      "ru": "Пермь",
+      "en": "Perm"
+    }
+  },
+  "/travel/sergiev-posad/": {
+    "destination_iata": "MOW",
+    "name": {
+      "ru": "Москва",
+      "en": "Moscow"
+    }
+  },
+  "/travel/ukretnoexp-9/": {
+    "destination_iata": "KBP",
+    "name": {
+      "ru": "Киев",
+      "en": "Kiev"
+    }
+  },
+  "/travel/tunisia/": {
+    "destination_iata": "TUN",
+    "name": {
+      "ru": "Тунис",
+      "en": "Tunis"
+    }
+  },
+  "/travel/libya/": {
+    "destination_iata": "TIP",
+    "name": {
+      "ru": "Триполи",
+      "en": "Tripoli"
+    }
+  },
+  "/travel/algeria/": {
+    "destination_iata": "ALG",
+    "name": {
+      "ru": "Алжир",
+      "en": "Algiers"
+    }
+  },
+  "/travel/sofia.2009/": {
+    "destination_iata": "SOF",
+    "name": {
+      "ru": "София",
+      "en": "Sofia"
+    }
+  },
+  "/travel/montenegro/": {
+    "destination_iata": "TGD",
+    "name": {
+      "ru": "Подгорица",
+      "en": "Podgorica"
+    }
+  },
+  "/travel/albania.2009/": {
+    "destination_iata": "TIA",
+    "name": {
+      "ru": "Тирана",
+      "en": "Tirana"
+    }
+  },
+  "/travel/bechevinka/": {
+    "destination_iata": "PKC",
+    "name": {
+      "ru": "Петропавловск-Камчатский",
+      "en": "Petropavlovsk-Kamchats"
+    }
+  },
+  "/travel/petropavlovsk-kamchatsky.2009/": {
+    "destination_iata": "PKC",
+    "name": {
+      "ru": "Петропавловск-Камчатский",
+      "en": "Petropavlovsk-Kamchats"
+    }
+  },
+  "/travel/perm.2009.09/": {
+    "destination_iata": "PEE",
+    "name": {
+      "ru": "Пермь",
+      "en": "Perm"
+    }
+  },
+  "/travel/klintsy/": {
+    "destination_iata": "BZK",
+    "name": {
+      "ru": "Брянск",
+      "en": "Briansk"
+    }
+  },
+  "/travel/ukretnoexp-8/": {
+    "destination_iata": "PLV",
+    "name": {
+      "ru": "Полтава",
+      "en": "Poltava"
+    }
+  },
+  "/travel/ukretnoexp-7/": {
+    "destination_iata": "HRK",
+    "name": {
+      "ru": "Харьков",
+      "en": "Kharkov"
+    }
+  },
+  "/travel/ukretnoexp-6/": {
+    "destination_iata": "VSG",
+    "name": {
+      "ru": "Луганск",
+      "en": "Lugansk"
+    }
+  },
+  "/travel/ukretnoexp-5/": {
+    "destination_iata": "SIP",
+    "name": {
+      "ru": "Симферополь",
+      "en": "Simferopol"
+    }
+  },
+  "/travel/ukretnoexp-4/": {
+    "destination_iata": "ODS",
+    "name": {
+      "ru": "Одесса",
+      "en": "Odessa"
+    }
+  },
+  "/travel/ukretnoexp-2/": {
+    "destination_iata": "LWO",
+    "name": {
+      "ru": "Львов",
+      "en": "Lviv"
+    }
+  },
+  "/travel/ukretnoexp-1/": {
+    "destination_iata": "KBP",
+    "name": {
+      "ru": "Киев",
+      "en": "Kiev"
+    }
+  },
+  "/travel/berlin.2009/": {
+    "destination_iata": "AMS",
+    "name": {
+      "ru": "Амстердам",
+      "en": "Amsterdam"
+    }
+  },
+  "/travel/amsterdam.2009/": {
+    "destination_iata": "AMS",
+    "name": {
+      "ru": "Амстердам",
+      "en": "Amsterdam"
+    }
+  },
+  "/travel/perm.2009.08/": {
+    "destination_iata": "PEE",
+    "name": {
+      "ru": "Пермь",
+      "en": "Perm"
+    }
+  },
+  "/travel/kiev.2009.07/": {
+    "destination_iata": "KBP",
+    "name": {
+      "ru": "Киев",
+      "en": "Kiev"
+    }
+  },
+  "/travel/mumusique-comeback-4/": {
+    "destination_iata": "RTW",
+    "name": {
+      "ru": "Саратов",
+      "en": "Saratov"
+    }
+  },
+  "/travel/mumusique-comeback-3/": {
+    "destination_iata": "UFA",
+    "name": {
+      "ru": "Уфа",
+      "en": "Ufa"
+    }
+  },
+  "/travel/mumusique-comeback-2/": {
+    "destination_iata": "OMS",
+    "name": {
+      "ru": "Омск",
+      "en": "Omsk"
+    }
+  },
+  "/travel/mumusique-comeback-1/": {
+    "destination_iata": "KJA",
+    "name": {
+      "ru": "Красноярск",
+      "en": "Krasnojarsk"
+    }
+  },
+  "/travel/kiev.2009.06-07/": {
+    "destination_iata": "KBP",
+    "name": {
+      "ru": "Киев",
+      "en": "Kiev"
+    }
+  },
+  "/travel/spb.2009.06/": {
+    "destination_iata": "LED",
+    "name": {
+      "ru": "Санкт-Петербург",
+      "en": "St Petersburg"
+    }
+  },
+  "/travel/kiev.2009.06/": {
+    "destination_iata": "KBP",
+    "name": {
+      "ru": "Киев",
+      "en": "Kiev"
+    }
+  },
+  "/travel/zagreb/": {
+    "destination_iata": "ZAG",
+    "name": {
+      "ru": "Загреб",
+      "en": "Zagreb"
+    }
+  },
+  "/travel/budapest/": {
+    "destination_iata": "BUD",
+    "name": {
+      "ru": "Будапешт",
+      "en": "Budapest"
+    }
+  },
+  "/travel/bratislava/": {
+    "destination_iata": "BTS",
+    "name": {
+      "ru": "Братислава",
+      "en": "Bratislava"
+    }
+  },
+  "/travel/slovenia.2009/": {
+    "destination_iata": "LJU",
+    "name": {
+      "ru": "Любляна",
+      "en": "Ljubljana"
+    }
+  },
+  "/travel/perm.2009.05/": {
+    "destination_iata": "PEE",
+    "name": {
+      "ru": "Пермь",
+      "en": "Perm"
+    }
+  },
+  "/travel/kiev.2009.05/": {
+    "destination_iata": "KBP",
+    "name": {
+      "ru": "Киев",
+      "en": "Kiev"
+    }
+  },
+  "/travel/oman/": {
+    "destination_iata": "MCT",
+    "name": {
+      "ru": "Маскат",
+      "en": "Muscat"
+    }
+  },
+  "/travel/yemen/": {
+    "destination_iata": "SAH",
+    "name": {
+      "ru": "Сана",
+      "en": "Sanaa"
+    }
+  },
+  "/travel/lebanon/": {
+    "destination_iata": "BEY",
+    "name": {
+      "ru": "Бейрут",
+      "en": "Beirut"
+    }
+  },
+  "/travel/dubna.2009/": {
+    "destination_iata": "MOW",
+    "name": {
+      "ru": "Москва",
+      "en": "Moscow"
+    }
+  },
+  "/travel/fiji.2009/": {
+    "destination_iata": "NAN",
+    "name": {
+      "ru": "Нанди",
+      "en": "Nadi"
+    }
+  },
+  "/travel/new-zealand-3/": {
+    "destination_iata": "WLG",
+    "name": {
+      "ru": "Веллингтон",
+      "en": "Wellington"
+    }
+  },
+  "/travel/new-zealand-2/": {
+    "destination_iata": "HLZ",
+    "name": {
+      "ru": "Гамильтон",
+      "en": "Hamilton"
+    }
+  },
+  "/travel/new-zealand-1/": {
+    "destination_iata": "AKL",
+    "name": {
+      "ru": "Окленд",
+      "en": "Auckland"
+    }
+  },
+  "/travel/australia-4/": {
+    "destination_iata": "BNE",
+    "name": {
+      "ru": "Брисбен",
+      "en": "Brisbane"
+    }
+  },
+  "/travel/australia-3/": {
+    "destination_iata": "ADL",
+    "name": {
+      "ru": "Аделаида",
+      "en": "Adelaide"
+    }
+  },
+  "/travel/australia-2/": {
+    "destination_iata": "MEL",
+    "name": {
+      "ru": "Мельбурн",
+      "en": "Melbourne"
+    }
+  },
+  "/travel/australia-1/": {
+    "destination_iata": "SYD",
+    "name": {
+      "ru": "Сидней",
+      "en": "Sydney"
+    }
+  },
+  "/travel/spb.2009.02/": {
+    "destination_iata": "LED",
+    "name": {
+      "ru": "Санкт-Петербург",
+      "en": "St Petersburg"
+    }
+  },
+  "/travel/madrid-toledo/": {
+    "destination_iata": "MAD",
+    "name": {
+      "ru": "Мадрид",
+      "en": "Madrid"
+    }
+  },
+  "/travel/brazil-4/": {
+    "destination_iata": "RIO",
+    "name": {
+      "ru": "Рио-де-Жанейро",
+      "en": "Rio de Janeiro"
+    }
+  },
+  "/travel/brazil-3/": {
+    "destination_iata": "BSB",
+    "name": {
+      "ru": "Бразилиа",
+      "en": "Brasilia"
+    }
+  },
+  "/travel/brazil-2/": {
+    "destination_iata": "CWB",
+    "name": {
+      "ru": "Куритиба",
+      "en": "Curitiba"
+    }
+  },
+  "/travel/brazil-1/": {
+    "destination_iata": "SAO",
+    "name": {
+      "ru": "Сан-Пауло",
+      "en": "Sao Paulo"
+    }
+  },
+  "/travel/paraguay-2/": {
+    "destination_iata": "ASU",
+    "name": {
+      "ru": "Асунсьон",
+      "en": "Asuncion"
+    }
+  },
+  "/travel/paraguay-1/": {
+    "destination_iata": "ASU",
+    "name": {
+      "ru": "Асунсьон",
+      "en": "Asuncion"
+    }
+  },
+  "/travel/buenos-aires/": {
+    "destination_iata": "BUE",
+    "name": {
+      "ru": "Буэнос-Айрес",
+      "en": "Buenos Aires"
+    }
+  },
+  "/travel/uruguay/": {
+    "destination_iata": "MVD",
+    "name": {
+      "ru": "Монтевидео",
+      "en": "Montevideo"
+    }
+  },
+  "/travel/ee-13/": {
+    "destination_iata": "KJA",
+    "name": {
+      "ru": "Красноярск",
+      "en": "Krasnojarsk"
+    }
+  },
+  "/travel/ee-11/": {
+    "destination_iata": "BJS",
+    "name": {
+      "ru": "Пекин",
+      "en": "Beijing"
+    }
+  },
+  "/travel/vatican.2008/": {
+    "destination_iata": "ROM",
+    "name": {
+      "ru": "Рим",
+      "en": "Rome"
+    }
+  },
+  "/travel/trieste-roma/": {
+    "destination_iata": "ROM",
+    "name": {
+      "ru": "Рим",
+      "en": "Rome"
+    }
+  },
+  "/travel/morocco-2/": {
+    "destination_iata": "FEZ",
+    "name": {
+      "ru": "Фес",
+      "en": "Fez"
+    }
+  },
+  "/travel/morocco-1/": {
+    "destination_iata": "RAK",
+    "name": {
+      "ru": "Марракеш",
+      "en": "Marrakech"
+    }
+  },
+  "/travel/london.2008/": {
+    "destination_iata": "LON",
+    "name": {
+      "ru": "Лондон",
+      "en": "London"
+    }
+  },
+  "/travel/scotland/": {
+    "destination_iata": "EDI",
+    "name": {
+      "ru": "Эдинбург",
+      "en": "Edinburgh"
+    }
+  },
+  "/travel/svetlyi-kaliningrad/": {
+    "destination_iata": "KGD",
+    "name": {
+      "ru": "Калининград",
+      "en": "Kaliningrad"
+    }
+  },
+  "/travel/kiev.2008.09/": {
+    "destination_iata": "KBP",
+    "name": {
+      "ru": "Киев",
+      "en": "Kiev"
+    }
+  },
+  "/travel/ee-10/": {
+    "destination_iata": "ULN",
+    "name": {
+      "ru": "Улан-Батор",
+      "en": "Ulaanbaatar"
+    }
+  },
+  "/travel/ee-8/": {
+    "destination_iata": "BQS",
+    "name": {
+      "ru": "Благовещенск",
+      "en": "Blagoveschensk"
+    }
+  },
+  "/travel/ee-7/": {
+    "destination_iata": "UUD",
+    "name": {
+      "ru": "Улан-Удэ",
+      "en": "Ulan-ude"
+    }
+  },
+  "/travel/ee-6/": {
+    "destination_iata": "IRK",
+    "name": {
+      "ru": "Кирксвилл",
+      "en": "Kirksville"
+    }
+  },
+  "/travel/ee-5/": {
+    "destination_iata": "TOF",
+    "name": {
+      "ru": "Томск",
+      "en": "Tomsk"
+    }
+  },
+  "/travel/ee-4/": {
+    "destination_iata": "OVB",
+    "name": {
+      "ru": "Новосибирск",
+      "en": "Novosibirsk"
+    }
+  },
+  "/travel/ee-3/": {
+    "destination_iata": "TJM",
+    "name": {
+      "ru": "Тюмень",
+      "en": "Tyumen"
+    }
+  },
+  "/travel/ee-2/": {
+    "destination_iata": "UFA",
+    "name": {
+      "ru": "Уфа",
+      "en": "Ufa"
+    }
+  },
+  "/travel/ee-1/": {
+    "destination_iata": "KZN",
+    "name": {
+      "ru": "Казань",
+      "en": "Kazan"
+    }
+  },
+  "/travel/abkhazia/": {
+    "destination_iata": "AER",
+    "name": {
+      "ru": "Адлер",
+      "en": "Sochi"
+    }
+  },
+  "/travel/suzdal.2008/": {
+    "destination_iata": "MOW",
+    "name": {
+      "ru": "Москва",
+      "en": "Moscow"
+    }
+  },
+  "/travel/vladimir/": {
+    "destination_iata": "MOW",
+    "name": {
+      "ru": "Москва",
+      "en": "Moscow"
+    }
+  },
+  "/travel/veliky-novgorod/": {
+    "destination_iata": "LED",
+    "name": {
+      "ru": "Санкт-Петербург",
+      "en": "St Petersburg"
+    }
+  },
+  "/travel/spb.2008.06/": {
+    "destination_iata": "LED",
+    "name": {
+      "ru": "Санкт-Петербург",
+      "en": "St Petersburg"
+    }
+  },
+  "/travel/freiburg/": {
+    "destination_iata": "BSL",
+    "name": {
+      "ru": "Euroairport Swiss",
+      "en": "Euroairport Swiss"
+    }
+  },
+  "/travel/liechtenstein/": {
+    "destination_iata": "ZRH",
+    "name": {
+      "ru": "Цюрих",
+      "en": "Zurich"
+    }
+  },
+  "/travel/switzerland-2/": {
+    "destination_iata": "ZRH",
+    "name": {
+      "ru": "Цюрих",
+      "en": "Zurich"
+    }
+  },
+  "/travel/switzerland-1/": {
+    "destination_iata": "ZRH",
+    "name": {
+      "ru": "Цюрих",
+      "en": "Zurich"
+    }
+  },
+  "/travel/kiev.2008.05/": {
+    "destination_iata": "KBP",
+    "name": {
+      "ru": "Киев",
+      "en": "Kiev"
+    }
+  },
+  "/travel/istanbul.2008/": {
+    "destination_iata": "IST",
+    "name": {
+      "ru": "Стамбул",
+      "en": "Istanbul"
+    }
+  },
+  "/travel/syria-3/": {
+    "destination_iata": "DAM",
+    "name": {
+      "ru": "Дамаск",
+      "en": "Damascus"
+    }
+  },
+  "/travel/syria-2/": {
+    "destination_iata": "DAM",
+    "name": {
+      "ru": "Дамаск",
+      "en": "Damascus"
+    }
+  },
+  "/travel/syria-1/": {
+    "destination_iata": "DAM",
+    "name": {
+      "ru": "Дамаск",
+      "en": "Damascus"
+    }
+  },
+  "/travel/jordan/": {
+    "destination_iata": "AMM",
+    "name": {
+      "ru": "Амман",
+      "en": "Amman"
+    }
+  },
+  "/travel/kuwait/": {
+    "destination_iata": "KWI",
+    "name": {
+      "ru": "Кувейт",
+      "en": "Kuwait City"
+    }
+  },
+  "/travel/bahrain/": {
+    "destination_iata": "BAH",
+    "name": {
+      "ru": "Манама",
+      "en": "Manama"
+    }
+  },
+  "/travel/qatar/": {
+    "destination_iata": "DOH",
+    "name": {
+      "ru": "Доха",
+      "en": "Doha"
+    }
+  },
+  "/travel/limburg/": {
+    "destination_iata": "FRA",
+    "name": {
+      "ru": "Франкфурт-на-Майне",
+      "en": "Frankfurt"
+    }
+  },
+  "/travel/milan.2008/": {
+    "destination_iata": "MIL",
+    "name": {
+      "ru": "Милан",
+      "en": "Milan"
+    }
+  },
+  "/travel/klin/": {
+    "destination_iata": "MOW",
+    "name": {
+      "ru": "Москва",
+      "en": "Moscow"
+    }
+  },
+  "/travel/traffic-light-weekend/": {
+    "destination_iata": "MOW",
+    "name": {
+      "ru": "Москва",
+      "en": "Moscow"
+    }
+  },
+  "/travel/stockholm.2008/": {
+    "destination_iata": "STO",
+    "name": {
+      "ru": "Стокгольм",
+      "en": "Stockholm"
+    }
+  },
+  "/travel/surinam/": {
+    "destination_iata": "PBM",
+    "name": {
+      "ru": "Парамарибо",
+      "en": "Paramaribo"
+    }
+  },
+  "/travel/guyana/": {
+    "destination_iata": "GEO",
+    "name": {
+      "ru": "Джорджтаун",
+      "en": "Georgetown"
+    }
+  },
+  "/travel/barbados/": {
+    "destination_iata": "BGI",
+    "name": {
+      "ru": "Бриджтаун",
+      "en": "Bridgetown"
+    }
+  },
+  "/travel/trinidad-and-tobago/": {
+    "destination_iata": "POS",
+    "name": {
+      "ru": "Порт-оф-Спейн",
+      "en": "Port Of Spain"
+    }
+  },
+  "/travel/venezuela-2/": {
+    "destination_iata": "CCS",
+    "name": {
+      "ru": "Каракас",
+      "en": "Caracas"
+    }
+  },
+  "/travel/venezuela-1/": {
+    "destination_iata": "CCS",
+    "name": {
+      "ru": "Каракас",
+      "en": "Caracas"
+    }
+  },
+  "/travel/usa-6/": {
+    "destination_iata": "NYC",
+    "name": {
+      "ru": "Нью-Йорк",
+      "en": "New York"
+    }
+  },
+  "/travel/usa-5/": {
+    "destination_iata": "SFO",
+    "name": {
+      "ru": "Сан-Франциско",
+      "en": "San Francisco"
+    }
+  },
+  "/travel/usa-4/": {
+    "destination_iata": "LAX",
+    "name": {
+      "ru": "Лос-Анджелес",
+      "en": "Los Angeles"
+    }
+  },
+  "/travel/usa-3/": {
+    "destination_iata": "NYC",
+    "name": {
+      "ru": "Нью-Йорк",
+      "en": "New York"
+    }
+  },
+  "/travel/usa-2/": {
+    "destination_iata": "SFO",
+    "name": {
+      "ru": "Сан-Франциско",
+      "en": "San Francisco"
+    }
+  },
+  "/travel/usa-1/": {
+    "destination_iata": "NYC",
+    "name": {
+      "ru": "Нью-Йорк",
+      "en": "New York"
+    }
+  },
+  "/travel/kpi/": {
+    "destination_iata": "MOW",
+    "name": {
+      "ru": "Москва",
+      "en": "Moscow"
+    }
+  },
+  "/travel/sarov/": {
+    "destination_iata": "GOJ",
+    "name": {
+      "ru": "Нижний Новгород",
+      "en": "Nizhniy Novgorod"
+    }
+  },
+  "/travel/hlebobulka/": {
+    "destination_iata": "MOW",
+    "name": {
+      "ru": "Москва",
+      "en": "Moscow"
+    }
+  },
+  "/travel/spb.2007.12/": {
+    "destination_iata": "LED",
+    "name": {
+      "ru": "Санкт-Петербург",
+      "en": "St Petersburg"
+    }
+  },
+  "/travel/donetsk.2007/": {
+    "destination_iata": "DOK",
+    "name": {
+      "ru": "Донецк",
+      "en": "Donetsk"
+    }
+  },
+  "/travel/tomsk.2007/": {
+    "destination_iata": "TOF",
+    "name": {
+      "ru": "Томск",
+      "en": "Tomsk"
+    }
+  },
+  "/travel/seversk/": {
+    "destination_iata": "TOF",
+    "name": {
+      "ru": "Томск",
+      "en": "Tomsk"
+    }
+  },
+  "/travel/electro-weekend/": {
+    "destination_iata": "MOW",
+    "name": {
+      "ru": "Москва",
+      "en": "Moscow"
+    }
+  },
+  "/travel/wien.2007.11/": {
+    "destination_iata": "VIE",
+    "name": {
+      "ru": "Вена",
+      "en": "Vienna"
+    }
+  },
+  "/travel/riga.2007.11/": {
+    "destination_iata": "RIX",
+    "name": {
+      "ru": "Рига",
+      "en": "Riga"
+    }
+  },
+  "/travel/macao/": {
+    "destination_iata": "MFM",
+    "name": {
+      "ru": "Макао",
+      "en": "Macau"
+    }
+  },
+  "/travel/taiwan.2007/": {
+    "destination_iata": "TPE",
+    "name": {
+      "ru": "Тайбэй",
+      "en": "Taipei"
+    }
+  },
+  "/travel/kostroma.2007/": {
+    "destination_iata": "IAR",
+    "name": {
+      "ru": "Ярославль",
+      "en": "Yaroslavl"
+    }
+  },
+  "/travel/ples.2007/": {
+    "destination_iata": "MOW",
+    "name": {
+      "ru": "Москва",
+      "en": "Moscow"
+    }
+  },
+  "/travel/chechnya-2/": {
+    "destination_iata": "GRV",
+    "name": {
+      "ru": "Грозный",
+      "en": "Groznyj"
+    }
+  },
+  "/travel/chechnya-1/": {
+    "destination_iata": "GRV",
+    "name": {
+      "ru": "Грозный",
+      "en": "Groznyj"
+    }
+  },
+  "/travel/dagestan-2/": {
+    "destination_iata": "MCX",
+    "name": {
+      "ru": "Махачкала",
+      "en": "Makhachkala"
+    }
+  },
+  "/travel/dagestan-1/": {
+    "destination_iata": "MCX",
+    "name": {
+      "ru": "Махачкала",
+      "en": "Makhachkala"
+    }
+  },
+  "/travel/kaluga.2007/": {
+    "destination_iata": "MOW",
+    "name": {
+      "ru": "Москва",
+      "en": "Moscow"
+    }
+  },
+  "/travel/cx.08-09.09/": {
+    "destination_iata": "MOW",
+    "name": {
+      "ru": "Москва",
+      "en": "Moscow"
+    }
+  },
+  "/travel/petropavlovsk-kamchatsky.2007/": {
+    "destination_iata": "PKC",
+    "name": {
+      "ru": "Петропавловск-Камчатский",
+      "en": "Petropavlovsk-Kamchats"
+    }
+  },
+  "/travel/vladivostok.2007/": {
+    "destination_iata": "VVO",
+    "name": {
+      "ru": "Владивосток",
+      "en": "Vladivostok"
+    }
+  },
+  "/travel/habarovsk.2007/": {
+    "destination_iata": "KHV",
+    "name": {
+      "ru": "Хабаровск",
+      "en": "Khabarovsk"
+    }
+  },
+  "/travel/shikotan/": {
+    "destination_iata": "UUS",
+    "name": {
+      "ru": "Южно-Сахалинск",
+      "en": "Yuzhno-Sakhalinsk"
+    }
+  },
+  "/travel/korsakov/": {
+    "destination_iata": "UUS",
+    "name": {
+      "ru": "Южно-Сахалинск",
+      "en": "Yuzhno-Sakhalinsk"
+    }
+  },
+  "/travel/yuzhno-sakhalinsk.2007/": {
+    "destination_iata": "UUS",
+    "name": {
+      "ru": "Южно-Сахалинск",
+      "en": "Yuzhno-Sakhalinsk"
+    }
+  },
+  "/travel/tver.2007/": {
+    "destination_iata": "MOW",
+    "name": {
+      "ru": "Москва",
+      "en": "Moscow"
+    }
+  },
+  "/travel/chernobyl/": {
+    "destination_iata": "KBP",
+    "name": {
+      "ru": "Киев",
+      "en": "Kiev"
+    }
+  },
+  "/travel/promenade.2007-2/": {
+    "destination_iata": "ROV",
+    "name": {
+      "ru": "Ростов-на-Дону",
+      "en": "Rostov"
+    }
+  },
+  "/travel/promenade.2007-1/": {
+    "destination_iata": "ODS",
+    "name": {
+      "ru": "Одесса",
+      "en": "Odessa"
+    }
+  },
+  "/travel/altai-3/": {
+    "destination_iata": "RGK",
+    "name": {
+      "ru": "Горно-Алтайск",
+      "en": "Gorno-Altaysk"
+    }
+  },
+  "/travel/altai-1/": {
+    "destination_iata": "BAX",
+    "name": {
+      "ru": "Барнаул",
+      "en": "Barnaul"
+    }
+  },
+  "/travel/altai-2/": {
+    "destination_iata": "BAX",
+    "name": {
+      "ru": "Барнаул",
+      "en": "Barnaul"
+    }
+  },
+  "/travel/ozery/": {
+    "destination_iata": "MOW",
+    "name": {
+      "ru": "Москва",
+      "en": "Moscow"
+    }
+  },
+  "/travel/memorial-weekend/": {
+    "destination_iata": "LED",
+    "name": {
+      "ru": "Санкт-Петербург",
+      "en": "St Petersburg"
+    }
+  },
+  "/travel/vyazma/": {
+    "destination_iata": "LNX",
+    "name": {
+      "ru": "Смоленск",
+      "en": "Smolensk"
+    }
+  },
+  "/travel/petrozavodsk/": {
+    "destination_iata": "PES",
+    "name": {
+      "ru": "Петрозаводск",
+      "en": "Petrozavodsk"
+    }
+  },
+  "/travel/podolsk.2007/": {
+    "destination_iata": "MOW",
+    "name": {
+      "ru": "Москва",
+      "en": "Moscow"
+    }
+  },
+  "/travel/avia-lenin-weekend/": {
+    "destination_iata": "MOW",
+    "name": {
+      "ru": "Москва",
+      "en": "Moscow"
+    }
+  },
+  "/travel/vyborg/": {
+    "destination_iata": "LED",
+    "name": {
+      "ru": "Санкт-Петербург",
+      "en": "St Petersburg"
+    }
+  },
+  "/travel/spb.2007.06/": {
+    "destination_iata": "LED",
+    "name": {
+      "ru": "Санкт-Петербург",
+      "en": "St Petersburg"
+    }
+  },
+  "/travel/ryazan/": {
+    "destination_iata": "RZN",
+    "name": {
+      "ru": "Рязань",
+      "en": "Ryazan"
+    }
+  },
+  "/travel/sochi/": {
+    "destination_iata": "AER",
+    "name": {
+      "ru": "Адлер",
+      "en": "Sochi"
+    }
+  },
+  "/travel/balashiha/": {
+    "destination_iata": "MOW",
+    "name": {
+      "ru": "Москва",
+      "en": "Moscow"
+    }
+  },
+  "/travel/ekaterinburg.2007/": {
+    "destination_iata": "SVX",
+    "name": {
+      "ru": "Екатеринбург",
+      "en": "Ekaterinburg"
+    }
+  },
+  "/travel/surgut/": {
+    "destination_iata": "SGC",
+    "name": {
+      "ru": "Сургут",
+      "en": "Surgut"
+    }
+  },
+  "/travel/india-2/": {
+    "destination_iata": "DEL",
+    "name": {
+      "ru": "Дели",
+      "en": "New Delhi"
+    }
+  },
+  "/travel/bangladesh-3/": {
+    "destination_iata": "DAK",
+    "name": {
+      "ru": "Дахла",
+      "en": "Dakhla Oasis"
+    }
+  },
+  "/travel/bangladesh-2/": {
+    "destination_iata": "DAK",
+    "name": {
+      "ru": "Дахла",
+      "en": "Dakhla Oasis"
+    }
+  },
+  "/travel/bangladesh-1/": {
+    "destination_iata": "DAK",
+    "name": {
+      "ru": "Дахла",
+      "en": "Dakhla Oasis"
+    }
+  },
+  "/travel/india-1/": {
+    "destination_iata": "CCU",
+    "name": {
+      "ru": "Калькутта",
+      "en": "Kolkata"
+    }
+  },
+  "/travel/bhutan/": {
+    "destination_iata": "PBH",
+    "name": {
+      "ru": "Паро",
+      "en": "Paro"
+    }
+  },
+  "/travel/thailand/": {
+    "destination_iata": "BKK",
+    "name": {
+      "ru": "Бангкок",
+      "en": "Bangkok"
+    }
+  },
+  "/travel/south-korea-3/": {
+    "destination_iata": "SEL",
+    "name": {
+      "ru": "Сеул",
+      "en": "Seoul"
+    }
+  },
+  "/travel/south-korea-2/": {
+    "destination_iata": "SEL",
+    "name": {
+      "ru": "Сеул",
+      "en": "Seoul"
+    }
+  },
+  "/travel/south-korea-1/": {
+    "destination_iata": "SEL",
+    "name": {
+      "ru": "Сеул",
+      "en": "Seoul"
+    }
+  },
+  "/travel/uae.2007/": {
+    "destination_iata": "DXB",
+    "name": {
+      "ru": "Дубай",
+      "en": "Dubai"
+    }
+  },
+  "/travel/spb.2007.04/": {
+    "destination_iata": "LED",
+    "name": {
+      "ru": "Санкт-Петербург",
+      "en": "St Petersburg"
+    }
+  },
+  "/travel/fryazino/": {
+    "destination_iata": "MOW",
+    "name": {
+      "ru": "Москва",
+      "en": "Moscow"
+    }
+  },
+  "/travel/germany.2007/": {
+    "destination_iata": "HAM",
+    "name": {
+      "ru": "Гамбург",
+      "en": "Hamburg"
+    }
+  },
+  "/travel/borovsk/": {
+    "destination_iata": "MOW",
+    "name": {
+      "ru": "Москва",
+      "en": "Moscow"
+    }
+  },
+  "/travel/rapa-nui/": {
+    "destination_iata": "IPC",
+    "name": {
+      "ru": "Остров Пасхи",
+      "en": "Easter Island"
+    }
+  },
+  "/travel/chile-3/": {
+    "destination_iata": "PUQ",
+    "name": {
+      "ru": "Пунта-Аренас",
+      "en": "Punta Arenas"
+    }
+  },
+  "/travel/chile-2/": {
+    "destination_iata": "SCL",
+    "name": {
+      "ru": "Сантьяго",
+      "en": "Santiago"
+    }
+  },
+  "/travel/chile-1/": {
+    "destination_iata": "SCL",
+    "name": {
+      "ru": "Сантьяго",
+      "en": "Santiago"
+    }
+  },
+  "/travel/spb.2006.12/": {
+    "destination_iata": "LED",
+    "name": {
+      "ru": "Санкт-Петербург",
+      "en": "St Petersburg"
+    }
+  },
+  "/travel/taiwan.2006/": {
+    "destination_iata": "TPE",
+    "name": {
+      "ru": "Тайбэй",
+      "en": "Taipei"
+    }
+  },
+  "/travel/egypt-2/": {
+    "destination_iata": "CAI",
+    "name": {
+      "ru": "Каир",
+      "en": "Cairo"
+    }
+  },
+  "/travel/egypt-1/": {
+    "destination_iata": "CAI",
+    "name": {
+      "ru": "Каир",
+      "en": "Cairo"
+    }
+  },
+  "/travel/vilnius/": {
+    "destination_iata": "VNO",
+    "name": {
+      "ru": "Вильнюс",
+      "en": "Vilnius"
+    }
+  },
+  "/travel/riga.2006.10/": {
+    "destination_iata": "RIX",
+    "name": {
+      "ru": "Рига",
+      "en": "Riga"
+    }
+  },
+  "/travel/luxembourg/": {
+    "destination_iata": "LUX",
+    "name": {
+      "ru": "Люксембург",
+      "en": "Luxembourg"
+    }
+  },
+  "/travel/belgium/": {
+    "destination_iata": "BRU",
+    "name": {
+      "ru": "Брюссель",
+      "en": "Brussels"
+    }
+  },
+  "/travel/wien.2006/": {
+    "destination_iata": "VIE",
+    "name": {
+      "ru": "Вена",
+      "en": "Vienna"
+    }
+  },
+  "/travel/tula/": {
+    "destination_iata": "MOW",
+    "name": {
+      "ru": "Москва",
+      "en": "Moscow"
+    }
+  },
+  "/travel/uae.2006/": {
+    "destination_iata": "DXB",
+    "name": {
+      "ru": "Дубай",
+      "en": "Dubai"
+    }
+  },
+  "/travel/zambia/": {
+    "destination_iata": "LUN",
+    "name": {
+      "ru": "Лусака",
+      "en": "Lusaka"
+    }
+  },
+  "/travel/swaziland/": {
+    "destination_iata": "MTS",
+    "name": {
+      "ru": "Манзини",
+      "en": "Manzini"
+    }
+  },
+  "/travel/south-africa-2/": {
+    "destination_iata": "JNB",
+    "name": {
+      "ru": "Йоханесбург",
+      "en": "Johannesburg"
+    }
+  },
+  "/travel/south-africa-1/": {
+    "destination_iata": "CPT",
+    "name": {
+      "ru": "Кейптаун",
+      "en": "Cape Town"
+    }
+  },
+  "/travel/krylatskoe/": {
+    "destination_iata": "MOW",
+    "name": {
+      "ru": "Москва",
+      "en": "Moscow"
+    }
+  },
+  "/travel/riga.2006.08/": {
+    "destination_iata": "RIX",
+    "name": {
+      "ru": "Рига",
+      "en": "Riga"
+    }
+  },
+  "/travel/taganrog.2006/": {
+    "destination_iata": "TGK",
+    "name": {
+      "ru": "Таганрог",
+      "en": "Taganrog"
+    }
+  },
+  "/travel/mongolia-4/": {
+    "destination_iata": "ULN",
+    "name": {
+      "ru": "Улан-Батор",
+      "en": "Ulaanbaatar"
+    }
+  },
+  "/travel/mongolia-3/": {
+    "destination_iata": "ULN",
+    "name": {
+      "ru": "Улан-Батор",
+      "en": "Ulaanbaatar"
+    }
+  },
+  "/travel/mongolia-2/": {
+    "destination_iata": "ULN",
+    "name": {
+      "ru": "Улан-Батор",
+      "en": "Ulaanbaatar"
+    }
+  },
+  "/travel/mongolia-1/": {
+    "destination_iata": "ULN",
+    "name": {
+      "ru": "Улан-Батор",
+      "en": "Ulaanbaatar"
+    }
+  },
+  "/travel/spb.2006.07/": {
+    "destination_iata": "LED",
+    "name": {
+      "ru": "Санкт-Петербург",
+      "en": "St Petersburg"
+    }
+  },
+  "/travel/kremlin-weekend/": {
+    "destination_iata": "MOW",
+    "name": {
+      "ru": "Москва",
+      "en": "Moscow"
+    }
+  },
+  "/travel/canada-2/": {
+    "destination_iata": "YTO",
+    "name": {
+      "ru": "Торонто",
+      "en": "Toronto"
+    }
+  },
+  "/travel/canada-1/": {
+    "destination_iata": "YTO",
+    "name": {
+      "ru": "Торонто",
+      "en": "Toronto"
+    }
+  },
+  "/travel/china.2006/": {
+    "destination_iata": "BJS",
+    "name": {
+      "ru": "Пекин",
+      "en": "Beijing"
+    }
+  },
+  "/travel/north-korea-4/": {
+    "destination_iata": "FNJ",
+    "name": {
+      "ru": "Пхеньян",
+      "en": "Pyongyang"
+    }
+  },
+  "/travel/north-korea-3/": {
+    "destination_iata": "FNJ",
+    "name": {
+      "ru": "Пхеньян",
+      "en": "Pyongyang"
+    }
+  },
+  "/travel/north-korea-2/": {
+    "destination_iata": "FNJ",
+    "name": {
+      "ru": "Пхеньян",
+      "en": "Pyongyang"
+    }
+  },
+  "/travel/north-korea-1/": {
+    "destination_iata": "FNJ",
+    "name": {
+      "ru": "Пхеньян",
+      "en": "Pyongyang"
+    }
+  },
+  "/travel/spitsbergen/": {
+    "destination_iata": "OSL",
+    "name": {
+      "ru": "Осло",
+      "en": "Oslo"
+    }
+  },
+  "/travel/oslo/": {
+    "destination_iata": "OSL",
+    "name": {
+      "ru": "Осло",
+      "en": "Oslo"
+    }
+  },
+  "/travel/kolomna.2006.03/": {
+    "destination_iata": "MOW",
+    "name": {
+      "ru": "Москва",
+      "en": "Moscow"
+    }
+  },
+  "/travel/spb.2006.03/": {
+    "destination_iata": "LED",
+    "name": {
+      "ru": "Санкт-Петербург",
+      "en": "St Petersburg"
+    }
+  },
+  "/travel/odessa.2006.03/": {
+    "destination_iata": "ODS",
+    "name": {
+      "ru": "Одесса",
+      "en": "Odessa"
+    }
+  },
+  "/travel/riga.2006.03/": {
+    "destination_iata": "RIX",
+    "name": {
+      "ru": "Рига",
+      "en": "Riga"
+    }
+  },
+  "/travel/weightlessness/": {
+    "destination_iata": "MOW",
+    "name": {
+      "ru": "Москва",
+      "en": "Moscow"
+    }
+  },
+  "/travel/kazan.2006/": {
+    "destination_iata": "KZN",
+    "name": {
+      "ru": "Казань",
+      "en": "Kazan"
+    }
+  },
+  "/travel/riverside-weekend/": {
+    "destination_iata": "MOW",
+    "name": {
+      "ru": "Москва",
+      "en": "Moscow"
+    }
+  },
+  "/travel/belarus/": {
+    "destination_iata": "MSQ",
+    "name": {
+      "ru": "Минск",
+      "en": "Minsk"
+    }
+  },
+  "/travel/finland/": {
+    "destination_iata": "HEL",
+    "name": {
+      "ru": "Хельсинки",
+      "en": "Helsinki"
+    }
+  },
+  "/travel/alma-ata/": {
+    "destination_iata": "ALA",
+    "name": {
+      "ru": "Алматы",
+      "en": "Almaty"
+    }
+  },
+  "/travel/riga.2005.10/": {
+    "destination_iata": "RIX",
+    "name": {
+      "ru": "Рига",
+      "en": "Riga"
+    }
+  },
+  "/travel/petropavlovsk-kamchatsky.2005/": {
+    "destination_iata": "PKC",
+    "name": {
+      "ru": "Петропавловск-Камчатский",
+      "en": "Petropavlovsk-Kamchats"
+    }
+  },
+  "/travel/yuzhno-sakhalinsk.2005/": {
+    "destination_iata": "UUS",
+    "name": {
+      "ru": "Южно-Сахалинск",
+      "en": "Yuzhno-Sakhalinsk"
+    }
+  },
+  "/travel/habarovsk.2005/": {
+    "destination_iata": "KHV",
+    "name": {
+      "ru": "Хабаровск",
+      "en": "Khabarovsk"
+    }
+  },
+  "/travel/blagoveshensk.2005/": {
+    "destination_iata": "BQS",
+    "name": {
+      "ru": "Благовещенск",
+      "en": "Blagoveschensk"
+    }
+  },
+  "/travel/odessa.2005.09/": {
+    "destination_iata": "ODS",
+    "name": {
+      "ru": "Одесса",
+      "en": "Odessa"
+    }
+  },
+  "/travel/spb.2005.08/": {
+    "destination_iata": "LED",
+    "name": {
+      "ru": "Санкт-Петербург",
+      "en": "St Petersburg"
+    }
+  },
+  "/travel/odessa.2005.08/": {
+    "destination_iata": "ODS",
+    "name": {
+      "ru": "Одесса",
+      "en": "Odessa"
+    }
+  },
+  "/travel/leto2005/": {
+    "destination_iata": "MOW",
+    "name": {
+      "ru": "Москва",
+      "en": "Moscow"
+    }
+  },
+  "/travel/sofia.2005.07/": {
+    "destination_iata": "SOF",
+    "name": {
+      "ru": "София",
+      "en": "Sofia"
+    }
+  },
+  "/travel/marksistskaya/": {
+    "destination_iata": "MOW",
+    "name": {
+      "ru": "Москва",
+      "en": "Moscow"
+    }
+  },
+  "/travel/krasnodar/": {
+    "destination_iata": "KRR",
+    "name": {
+      "ru": "Краснодар",
+      "en": "Krasnodar"
+    }
+  },
+  "/travel/greece.2005/": {
+    "destination_iata": "ATH",
+    "name": {
+      "ru": "Афины",
+      "en": "Athens"
+    }
+  },
+  "/travel/sofia-albena/": {
+    "destination_iata": "SOF",
+    "name": {
+      "ru": "София",
+      "en": "Sofia"
+    }
+  },
+  "/travel/irkutsk.2005/": {
+    "destination_iata": "IRK",
+    "name": {
+      "ru": "Кирксвилл",
+      "en": "Kirksville"
+    }
+  },
+  "/travel/novosibirsk.2005/": {
+    "destination_iata": "OVB",
+    "name": {
+      "ru": "Новосибирск",
+      "en": "Novosibirsk"
+    }
+  },
+  "/travel/yaroslavl.2005/": {
+    "destination_iata": "IAR",
+    "name": {
+      "ru": "Ярославль",
+      "en": "Yaroslavl"
+    }
+  },
+  "/travel/greenland/": {
+    "destination_iata": "SFJ",
+    "name": {
+      "ru": "Кангерлуссуак",
+      "en": "Kangerlussuaq"
+    }
+  },
+  "/travel/copenhagen.2005/": {
+    "destination_iata": "CPH",
+    "name": {
+      "ru": "Копенгаген",
+      "en": "Copenhagen"
+    }
+  },
+  "/travel/spb.2005.04/": {
+    "destination_iata": "LED",
+    "name": {
+      "ru": "Санкт-Петербург",
+      "en": "St Petersburg"
+    }
+  },
+  "/travel/murmansk.2005/": {
+    "destination_iata": "MMK",
+    "name": {
+      "ru": "Мурманск",
+      "en": "Murmansk"
+    }
+  },
+  "/travel/riga.2005.02/": {
+    "destination_iata": "RIX",
+    "name": {
+      "ru": "Рига",
+      "en": "Riga"
+    }
+  },
+  "/travel/kiev.2005.02/": {
+    "destination_iata": "KBP",
+    "name": {
+      "ru": "Киев",
+      "en": "Kiev"
+    }
+  },
+  "/travel/spb.2005.01/": {
+    "destination_iata": "LED",
+    "name": {
+      "ru": "Санкт-Петербург",
+      "en": "St Petersburg"
+    }
+  },
+  "/travel/kiev.2005.01/": {
+    "destination_iata": "KBP",
+    "name": {
+      "ru": "Киев",
+      "en": "Kiev"
+    }
+  },
+  "/travel/syktyvkar/": {
+    "destination_iata": "SCW",
+    "name": {
+      "ru": "Сыктывкар",
+      "en": "Syktyvkar"
+    }
+  },
+  "/travel/ekaterinburg.2004/": {
+    "destination_iata": "SVX",
+    "name": {
+      "ru": "Екатеринбург",
+      "en": "Ekaterinburg"
+    }
+  },
+  "/travel/berlin.2004.11/": {
+    "destination_iata": "BER",
+    "name": {
+      "ru": "Берлин",
+      "en": "Berlin"
+    }
+  },
+  "/travel/tyumen.2004/": {
+    "destination_iata": "TJM",
+    "name": {
+      "ru": "Тюмень",
+      "en": "Tyumen"
+    }
+  },
+  "/travel/andorra.2004.09/": {
+    "destination_iata": "BCN",
+    "name": {
+      "ru": "Барселона",
+      "en": "Barcelona"
+    }
+  },
+  "/travel/france.2004/": {
+    "destination_iata": "PAR",
+    "name": {
+      "ru": "Париж",
+      "en": "Paris"
+    }
+  },
+  "/travel/vladivostok.2004/": {
+    "destination_iata": "VVO",
+    "name": {
+      "ru": "Владивосток",
+      "en": "Vladivostok"
+    }
+  },
+  "/travel/komsomolsk.2004/": {
+    "destination_iata": "KXK",
+    "name": {
+      "ru": "Комсомольск-на-Амуре",
+      "en": "Komsomolsk Na Amure"
+    }
+  },
+  "/travel/japan/": {
+    "destination_iata": "TYO",
+    "name": {
+      "ru": "Токио",
+      "en": "Tokyo"
+    }
+  },
+  "/travel/habarovsk.2004/": {
+    "destination_iata": "KHV",
+    "name": {
+      "ru": "Хабаровск",
+      "en": "Khabarovsk"
+    }
+  },
+  "/travel/portugal.2004/": {
+    "destination_iata": "LIS",
+    "name": {
+      "ru": "Лиссабон",
+      "en": "Lisbon"
+    }
+  },
+  "/travel/andorra.2004.05/": {
+    "destination_iata": "BCN",
+    "name": {
+      "ru": "Барселона",
+      "en": "Barcelona"
+    }
+  },
+  "/travel/spain.2004/": {
+    "destination_iata": "MAD",
+    "name": {
+      "ru": "Мадрид",
+      "en": "Madrid"
+    }
+  },
+  "/travel/abakan/": {
+    "destination_iata": "ABA",
+    "name": {
+      "ru": "Абакан",
+      "en": "Abakan"
+    }
+  },
+  "/travel/antigua-and-barbuda/": {
+    "destination_iata": "BBQ",
+    "name": {
+      "ru": "Барбуда",
+      "en": "Barbuda"
+    }
+  },
+  "/travel/su-27/": {
+    "destination_iata": "MOW",
+    "name": {
+      "ru": "Москва",
+      "en": "Moscow"
+    }
+  },
+  "/travel/paris.2004.02/": {
+    "destination_iata": "PAR",
+    "name": {
+      "ru": "Париж",
+      "en": "Paris"
+    }
+  },
+  "/travel/kaliningrad.2003/": {
+    "destination_iata": "KGD",
+    "name": {
+      "ru": "Калининград",
+      "en": "Kaliningrad"
+    }
+  },
+  "/travel/london.2003/": {
+    "destination_iata": "LON",
+    "name": {
+      "ru": "Лондон",
+      "en": "London"
+    }
+  },
+  "/travel/israel.2003/": {
+    "destination_iata": "TLV",
+    "name": {
+      "ru": "Тель-Авив",
+      "en": "Tel Aviv Yafo"
+    }
+  },
+  "/travel/cyprus/": {
+    "destination_iata": "LCA",
+    "name": {
+      "ru": "Ларнака",
+      "en": "Larnaca"
+    }
+  },
+  "/travel/rostov-na-donu.2003/": {
+    "destination_iata": "ROV",
+    "name": {
+      "ru": "Ростов-на-Дону",
+      "en": "Rostov"
+    }
+  },
+  "/travel/kiev.2003.07/": {
+    "destination_iata": "KBP",
+    "name": {
+      "ru": "Киев",
+      "en": "Kiev"
+    }
+  },
+  "/travel/nnovgorod.2003/": {
+    "destination_iata": "GOJ",
+    "name": {
+      "ru": "Нижний Новгород",
+      "en": "Nizhniy Novgorod"
+    }
+  },
+  "/travel/kronshtadt.2003/": {
+    "destination_iata": "LED",
+    "name": {
+      "ru": "Санкт-Петербург",
+      "en": "St Petersburg"
+    }
+  },
+  "/travel/kasimov/": {
+    "destination_iata": "MOW",
+    "name": {
+      "ru": "Москва",
+      "en": "Moscow"
+    }
+  },
+  "/travel/italy.2003/": {
+    "destination_iata": "ROM",
+    "name": {
+      "ru": "Рим",
+      "en": "Rome"
+    }
+  },
+  "/travel/perm.2003/": {
+    "destination_iata": "PEE",
+    "name": {
+      "ru": "Пермь",
+      "en": "Perm"
+    }
+  },
+  "/travel/frankfurt.2003/": {
+    "destination_iata": "FRA",
+    "name": {
+      "ru": "Франкфурт-на-Майне",
+      "en": "Frankfurt"
+    }
+  },
+  "/travel/nnovgorod.2002.12/": {
+    "destination_iata": "GOJ",
+    "name": {
+      "ru": "Нижний Новгород",
+      "en": "Nizhniy Novgorod"
+    }
+  },
+  "/travel/uzbekistan/": {
+    "destination_iata": "TAS",
+    "name": {
+      "ru": "Ташкент",
+      "en": "Tashkent"
+    }
+  },
+  "/travel/riga.2002.10/": {
+    "destination_iata": "RIX",
+    "name": {
+      "ru": "Рига",
+      "en": "Riga"
+    }
+  },
+  "/travel/poklonnaya-gora/": {
+    "destination_iata": "MOW",
+    "name": {
+      "ru": "Москва",
+      "en": "Moscow"
+    }
+  },
+  "/travel/park-pobedy/": {
+    "destination_iata": "MOW",
+    "name": {
+      "ru": "Москва",
+      "en": "Moscow"
+    }
+  },
+  "/travel/tallinn.2002/": {
+    "destination_iata": "TLL",
+    "name": {
+      "ru": "Таллинн",
+      "en": "Tallinn"
+    }
+  },
+  "/travel/spb.2002.07/": {
+    "destination_iata": "LED",
+    "name": {
+      "ru": "Санкт-Петербург",
+      "en": "St Petersburg"
+    }
+  },
+  "/travel/riga.2002.07/": {
+    "destination_iata": "RIX",
+    "name": {
+      "ru": "Рига",
+      "en": "Riga"
+    }
+  },
+  "/travel/riga.2002.06/": {
+    "destination_iata": "RIX",
+    "name": {
+      "ru": "Рига",
+      "en": "Riga"
+    }
+  },
+  "/travel/riga.2002.05/": {
+    "destination_iata": "RIX",
+    "name": {
+      "ru": "Рига",
+      "en": "Riga"
+    }
+  },
+  "/travel/den-haag/": {
+    "destination_iata": "RTM",
+    "name": {
+      "ru": "Роттердам",
+      "en": "Rotterdam"
+    }
+  },
+  "/travel/berlin.2002/": {
+    "destination_iata": "BER",
+    "name": {
+      "ru": "Берлин",
+      "en": "Berlin"
+    }
+  },
+  "/travel/venice.2002/": {
+    "destination_iata": "VCE",
+    "name": {
+      "ru": "Венеция",
+      "en": "Venice"
+    }
+  },
+  "/travel/vatican.2002/": {
+    "destination_iata": "ROM",
+    "name": {
+      "ru": "Рим",
+      "en": "Rome"
+    }
+  },
+  "/travel/rome.2002/": {
+    "destination_iata": "ROM",
+    "name": {
+      "ru": "Рим",
+      "en": "Rome"
+    }
+  },
+  "/travel/riga.2002.04-05/": {
+    "destination_iata": "RIX",
+    "name": {
+      "ru": "Рига",
+      "en": "Riga"
+    }
+  },
+  "/travel/habarovsk.2002/": {
+    "destination_iata": "KHV",
+    "name": {
+      "ru": "Хабаровск",
+      "en": "Khabarovsk"
+    }
+  },
+  "/travel/komsomolsk.2002/": {
+    "destination_iata": "KXK",
+    "name": {
+      "ru": "Комсомольск-на-Амуре",
+      "en": "Komsomolsk Na Amure"
+    }
+  },
+  "/travel/kishinev.2002/": {
+    "destination_iata": "KIV",
+    "name": {
+      "ru": "Кишинёв",
+      "en": "Chisinau"
+    }
+  },
+  "/travel/riga.2002.04/": {
+    "destination_iata": "RIX",
+    "name": {
+      "ru": "Рига",
+      "en": "Riga"
+    }
+  },
+  "/travel/riga.2002.03/": {
+    "destination_iata": "RIX",
+    "name": {
+      "ru": "Рига",
+      "en": "Riga"
+    }
+  },
+  "/travel/georgia.2002/": {
+    "destination_iata": "TBS",
+    "name": {
+      "ru": "Тбилиси",
+      "en": "Tbilisi"
+    }
+  },
+  "/travel/spb.2002.01/": {
+    "destination_iata": "LED",
+    "name": {
+      "ru": "Санкт-Петербург",
+      "en": "St Petersburg"
+    }
+  },
+  "/travel/suzdal.2002/": {
+    "destination_iata": "IWA",
+    "name": {
+      "ru": "Иваново",
+      "en": "Ivanova"
+    }
+  },
+  "/travel/kiev.2001.12/": {
+    "destination_iata": "KBP",
+    "name": {
+      "ru": "Киев",
+      "en": "Kiev"
+    }
+  },
+  "/travel/riga.2001.12/": {
+    "destination_iata": "RIX",
+    "name": {
+      "ru": "Рига",
+      "en": "Riga"
+    }
+  },
+  "/travel/kiev.2001.11/": {
+    "destination_iata": "KBP",
+    "name": {
+      "ru": "Киев",
+      "en": "Kiev"
+    }
+  },
+  "/travel/amsterdam-hague/": {
+    "destination_iata": "AMS",
+    "name": {
+      "ru": "Амстердам",
+      "en": "Amsterdam"
+    }
+  },
+  "/travel/paris.2001.11/": {
+    "destination_iata": "PAR",
+    "name": {
+      "ru": "Париж",
+      "en": "Paris"
+    }
+  },
+  "/travel/riga.2001.11/": {
+    "destination_iata": "RIX",
+    "name": {
+      "ru": "Рига",
+      "en": "Riga"
+    }
+  },
+  "/travel/riga.2001.10.04-08/": {
+    "destination_iata": "RIX",
+    "name": {
+      "ru": "Рига",
+      "en": "Riga"
+    }
+  },
+  "/travel/spb.2001.09/": {
+    "destination_iata": "LED",
+    "name": {
+      "ru": "Санкт-Петербург",
+      "en": "St Petersburg"
+    }
+  },
+  "/travel/jurmala/": {
+    "destination_iata": "RIX",
+    "name": {
+      "ru": "Рига",
+      "en": "Riga"
+    }
+  },
+  "/travel/riga.2001.09/": {
+    "destination_iata": "RIX",
+    "name": {
+      "ru": "Рига",
+      "en": "Riga"
+    }
+  },
+  "/travel/riga.2001.08/": {
+    "destination_iata": "RIX",
+    "name": {
+      "ru": "Рига",
+      "en": "Riga"
+    }
+  },
+  "/travel/riga.2001.07/": {
+    "destination_iata": "RIX",
+    "name": {
+      "ru": "Рига",
+      "en": "Riga"
+    }
+  },
+  "/travel/spb.2001.07/": {
+    "destination_iata": "LED",
+    "name": {
+      "ru": "Санкт-Петербург",
+      "en": "St Petersburg"
+    }
+  },
+  "/travel/staraya-ladoga/": {
+    "destination_iata": "",
+    "name": {
+      "ru": "",
+      "en": ""
+    }
+  },
+  "/travel/monaco/": {
+    "destination_iata": "NCE",
+    "name": {
+      "ru": "Ницца",
+      "en": "Nice"
+    }
+  },
+  "/travel/paris-cannes/": {
+    "destination_iata": "PAR",
+    "name": {
+      "ru": "Париж",
+      "en": "Paris"
+    }
+  },
+  "/travel/spb.2001.06/": {
+    "destination_iata": "LED",
+    "name": {
+      "ru": "Санкт-Петербург",
+      "en": "St Petersburg"
+    }
+  },
+  "/travel/izhevsk.2001/": {
+    "destination_iata": "IJK",
+    "name": {
+      "ru": "Ижевск",
+      "en": "Izhevsk"
+    }
+  },
+  "/travel/berlin-ingolstadt/": {
+    "destination_iata": "BER",
+    "name": {
+      "ru": "Берлин",
+      "en": "Berlin"
+    }
+  },
+  "/travel/united-kingdom.2000/": {
+    "destination_iata": "LON",
+    "name": {
+      "ru": "Лондон",
+      "en": "London"
+    }
+  },
+  "/travel/kaliningrad.2000/": {
+    "destination_iata": "KGD",
+    "name": {
+      "ru": "Калининград",
+      "en": "Kaliningrad"
+    }
+  },
+  "/travel/cuba/": {
+    "destination_iata": "HAV",
+    "name": {
+      "ru": "Гавана",
+      "en": "Havana"
+    }
+  },
+  "/travel/novosibirsk.1999/": {
+    "destination_iata": "OVB",
+    "name": {
+      "ru": "Новосибирск",
+      "en": "Novosibirsk"
+    }
+  },
+  "/travel/lazarevskoe/": {
+    "destination_iata": "AER",
+    "name": {
+      "ru": "Адлер",
+      "en": "Sochi"
+    }
+  },
+  "/travel/yalta-dnepropetrovsk/": {
+    "destination_iata": "DNK",
+    "name": {
+      "ru": "Днепропетровск",
+      "en": "Dnepropetrovsk"
+    }
+  },
+  "/travel/prague/": {
+    "destination_iata": "PRG",
+    "name": {
+      "ru": "Прага",
+      "en": "Prague"
+    }
+  },
+  "/travel/new-york.1996/": {
+    "destination_iata": "NYC",
+    "name": {
+      "ru": "Нью-Йорк",
+      "en": "New York"
+    }
+  },
+  "/travel/mexico/": {
+    "destination_iata": "MEX",
+    "name": {
+      "ru": "Мехико",
+      "en": "Mexico City"
+    }
+  },
+  "/travel/usa.1990-1991/": {
+    "destination_iata": "PHL",
+    "name": {
+      "ru": "Филадельфия",
+      "en": "Philadelphia"
+    }
+  }
+}

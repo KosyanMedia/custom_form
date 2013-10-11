@@ -1,0 +1,13 @@
+{
+	"/tp-form-tester/tester.php": {
+	    "destination_iata": "KZN",
+	    "name": {
+	      "ru": "Казань",
+	      "en": "Kazan"
+	    },
+	    "destination": {
+	    	"ru": "Казань",
+	    	"en": "Kazan"
+	    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+	"default": {},
+	"/~nur/form_tester/tester.php": {
+		"destination_iata": "KZN",
+    "name": {
+      "ru": "Казань",
+      "en": "Kazan"
+    },
+    "destination": {
+			"ru": "отель Казань",
+			"en": "hotel Kazan"
+    }
+	}
+}
