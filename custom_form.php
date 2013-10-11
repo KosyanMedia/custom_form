@@ -22,10 +22,10 @@ function get_locale_specified_widget_ids_for_host($host)
         ),
         'kagor' => array(
             '5257dfa7b685a770f3000008' => array(
-                'locale' => 'en'
+                'locale' => 'ru'
             ),
             '5257e04cb685a770f3000012' => array(
-                'locale' => 'ru'
+                'locale' => 'en'
             )
         )
     );
