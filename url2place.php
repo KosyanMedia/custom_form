@@ -7,7 +7,7 @@ $memcached->addServer('localhost', 11211);
 
 $url = $_GET['url'] ? rawurldecode($_GET['url']) : 'default';
 $host = $_GET['host'] ? $_GET['host'] : 'default';
-$callback = $_GET['callback'] ? $_GET['callback'] : 'aviasales_run_widget';
+$callback = isset($_GET['callback']) ? $_GET['callback'] : 'aviasales_run_widget';
 
 $file_name = './files/url2place/' . basename($host) . '.json';
 if (!is_file($file_name)) {

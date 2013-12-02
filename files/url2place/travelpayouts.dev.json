@@ -1,0 +1,10 @@
+{
+    "default": {},
+    "/2c.html": {
+        "destination_iata": "LED",
+        "name": {
+            "ru": "Санкт-Петербург",
+            "en": "Saint Petersburg"
+        }
+    }
+}
