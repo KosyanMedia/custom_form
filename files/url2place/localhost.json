@@ -1,5 +1,5 @@
 {
-	"default": {},
+	"default": false,
 	"/~nur/form_tester/tester.php": {
 		"destination_iata": "KZN",
     "name": {

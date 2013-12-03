@@ -1,5 +1,11 @@
 {
-    "default": {},
+    "default": {
+        "destination_iata": "KZN",
+        "name": {
+            "ru": "Казань",
+            "en": "Kazan"
+        }
+    },
     "/2c.html": {
         "destination_iata": "LED",
         "name": {

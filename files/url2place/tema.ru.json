@@ -1,5 +1,5 @@
 {
-  "default": {},
+  "default": false,
   "/travel/spb.2013.07/": {
     "destination_iata": "LED",
     "name": {
