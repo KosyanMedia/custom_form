@@ -9,7 +9,7 @@ $(function () {
     };
     var aviasales_run_widget = function (data) {
         $('[data-widget]').each(function (idx, div) {
-            var locale = $(div).data('locale'),
+            var locale = $(div).attr('lang'),
                 id = $(div).data('widget');
             if (data) {
                 window.TP_FORM_SETTINGS[id] = window.TP_FORM_SETTINGS[id] || {};
