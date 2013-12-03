@@ -2,8 +2,8 @@
 header('Access-Control-Allow-Origin: *');
 header('Access-Control-Request-Method: *');
 header('Content-type: application/x-javascript; charset=utf-8');
-$memcached = new Memcached();
-$memcached->addServer('localhost', 11211);
+//$memcached = new Memcached();
+//$memcached->addServer('localhost', 11211);
 
 $url = $_GET['url'] ? rawurldecode($_GET['url']) : 'default';
 $host = $_GET['host'] ? $_GET['host'] : 'default';
@@ -19,12 +19,12 @@ function cache_key($param)
 }
 
 $key = cache_key($file_name);
-$url_places = $memcached->get($key);
+$url_places = false;//$memcached->get($key);
 
 
 if (!$url_places) {
     $url_places = json_decode(file_get_contents($file_name), true);
-    $memcached->set($key, $url_places);
+    //$memcached->set($key, $url_places);
 }
 $data_to_send = array_key_exists($url, $url_places) ? $url_places[$url] : $url_places['default'];
 
