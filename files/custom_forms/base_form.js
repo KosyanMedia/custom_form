@@ -1,5 +1,6 @@
 (function () {
     window.TP_FORM_SETTINGS = {};
+    var cache_invalidator = 4;
     var base_url = 'http://%server%/url2place.php?callback=?';
     var show_widget = function () {
         $.getJSON(base_url, {
@@ -17,11 +18,12 @@
                 window.TP_FORM_SETTINGS[id].destination_name = data.name[locale];
                 window.TP_FORM_SETTINGS[id].destination = data.name[locale];
             }
-            $('<' + 'script>', {
-                src: 'http://www.travelpayouts.com/widgets/' + id + '.js?v=1.135.0'
-            }).appendTo('body');
+            $.ajax({
+                dataType: "script",
+                cache: true,
+                url: 'http://%server%/widget.php?id=' + id + '&_' + cache_invalidator
+            });
         });
-
     };
     show_widget();
 })();
