@@ -1,4 +1,4 @@
-$(function () {
+(function () {
     window.TP_FORM_SETTINGS = {};
     var base_url = 'http://%server%/url2place.php?callback=?';
     var show_widget = function () {
@@ -24,4 +24,4 @@ $(function () {
 
     };
     show_widget();
-});
+})();
