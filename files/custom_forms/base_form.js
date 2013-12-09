@@ -1,6 +1,6 @@
 (function () {
     window.TP_FORM_SETTINGS = {};
-    var cache_invalidator = 4;
+    var cache_invalidator = 5;
     var base_url = 'http://%server%/url2place.php?callback=?';
     var show_widget = function () {
         $.getJSON(base_url, {
