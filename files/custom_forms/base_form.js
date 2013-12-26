@@ -21,7 +21,7 @@
             $.ajax({
                 dataType: "script",
                 cache: true,
-                url: 'http://%server%/widget.php?id=' + id + '&_' + cache_invalidator
+                url: 'http://www.travelpayouts.com/widgets/' + id + '.js&_' + cache_invalidator
             });
         });
     };
