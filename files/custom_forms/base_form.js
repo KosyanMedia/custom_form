@@ -17,7 +17,9 @@
                 window.TP_FORM_SETTINGS[id].destination_iata = data.destination_iata;
                 window.TP_FORM_SETTINGS[id].destination_name = data.name[locale];
                 window.TP_FORM_SETTINGS[id].hotel = {
-                  name: data.destination[locale]
+                    "name": data.destination[locale],
+                    "search_id": data.search_id,
+                    "search_type": data.search_type
                 }
             }
             $.ajax({

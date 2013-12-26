@@ -44,6 +44,8 @@
   },
   "/travel/douala/": {
     "destination_iata": "DLA",
+    "search_id": "12012",
+    "search_type": "city",
     "name": {
       "ru": "Дуала",
       "en": "Douala"
