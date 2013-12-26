@@ -16,12 +16,14 @@
                 window.TP_FORM_SETTINGS[id] = window.TP_FORM_SETTINGS[id] || {};
                 window.TP_FORM_SETTINGS[id].destination_iata = data.destination_iata;
                 window.TP_FORM_SETTINGS[id].destination_name = data.name[locale];
-                window.TP_FORM_SETTINGS[id].destination = data.name[locale];
+                window.TP_FORM_SETTINGS[id].hotel = {
+                  name: data.destination[locale]
+                }
             }
             $.ajax({
                 dataType: "script",
                 cache: true,
-                url: 'http://www.travelpayouts.com/widgets/' + id + '.js&_' + cache_invalidator
+                url: 'http://www.travelpayouts.com/widgets/' + id + '.js'
             });
         });
     };
