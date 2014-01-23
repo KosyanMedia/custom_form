@@ -11,14 +11,14 @@
 
   var load_css = function (){
     var css;
-    css = angular.element(document.createElement('link')).attr('rel', "stylesheet").attr('type', "text/css").attr('href', "@@assets_base_path/search-widget.css");
+    css = angular.element(document.createElement('link')).attr('rel', "stylesheet").attr('type', "text/css").attr('href', "http://www.travelpayouts.com/widgets/search-widget.css");
     return angular.element(document.getElementsByTagName('head')[0]).append(css);
   };
   var version = 2;
-
+  load_css();
   var init_form = function (widget_id, element){
     var div;
-    load_css();
+
     div = $('<div id="ng-app" ng-include="\'widget_container\'"></div>');
     div.data('widget-id', widget_id);
     element.append(div);
