@@ -15,7 +15,7 @@
     return angular.element(document.getElementsByTagName('head')[0]).append(css);
   };
   var version = 2;
-  load_css();
+
   var init_form = function (widget_id, element){
     var div;
 
@@ -46,6 +46,7 @@
       cache: true,
       url: 'http://www.travelpayouts.com/widgets/search-widget.js',
       success: function (){
+        load_css();
         angular.module('SearchForm').run([
           '$http', '$rootScope', 'ParamsConvereter', '$rootElement', function ($http, $rootScope, ParamsConvereter, $rootElement){
             var widget_id = $($rootElement).data('widget-id');
