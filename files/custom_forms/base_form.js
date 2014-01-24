@@ -44,7 +44,7 @@
     $.ajax({
       dataType: "script",
       cache: true,
-      url: 'http://www.travelpayouts.com/widgets/search-widget.js',
+      url: 'http://www.travelpayouts.com/widgets/search-widget.min.js',
       success: function (){
         load_css();
         angular.module('SearchForm').run([
