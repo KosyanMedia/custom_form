@@ -58,7 +58,7 @@
             var apply_params;
             apply_params = function (data){
                 if(/start/.test(window.location.href)){
-                    var lang = $($rootElement).attr('lang');
+                    var lang = data.locale;
                     $timeout(function(){
                         $('[lang="' + lang + '"] .default').prepend(messages[lang]);
                     },50);
