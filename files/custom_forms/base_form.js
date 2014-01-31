@@ -41,6 +41,11 @@
         }
       }
     });
+    var messages = {
+        ru: '<h1 style="font-size:1.8em;text-align:left;line-height:1.5em;margin-left:20px">Поиск дешёвых авиабилетов</h1>',
+        en: '<h1 style="font-size:1.8em;text-align:left;line-height:1.5em;margin-left:20px">Search and compare airfares</h1>'
+    };
+
     $.ajax({
       dataType: "script",
       cache: true,
@@ -48,12 +53,20 @@
       success: function (){
         load_css();
         angular.module('SearchForm').run([
-          '$http', '$rootScope', 'ParamsConvereter', '$rootElement', function ($http, $rootScope, ParamsConvereter, $rootElement){
+          '$http', '$rootScope', 'ParamsConvereter', '$rootElement', '$timeout', function ($http, $rootScope, ParamsConvereter, $rootElement, $timeout){
             var widget_id = $($rootElement).data('widget-id');
             var apply_params;
             apply_params = function (data){
+                if(/start/.test(window.location.href)){
+                    var lang = $($rootElement).attr('lang');
+                    $timeout(function(){
+                        $('[lang="' + lang + '"] .default').prepend(messages[lang]);
+                    },50);
+                }
+
               return $rootScope.widget_config = ParamsConvereter(data, widget_id);
             };
+
             return $http.jsonp("http://travelpayouts.com/widgets/" + widget_id + ".json?version=" + version + "&callback=JSON_CALLBACK&_" + (+new Date())).success(apply_params);
           }
         ]);
