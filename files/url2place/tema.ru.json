@@ -1,4 +1,95 @@
 { 
+ "/travel/london-oxford.2013/": {
+    "destination_iata": "LON",
+    "name": {
+      "ru": "Лондон",
+      "en": "London"
+    },
+    "search_id": "7896",
+    "search_type": "city",
+    "destination": {
+      "ru": "Лондон",
+      "en": "London"
+    }
+  },
+ "/travel/norway.2013/": {
+    "destination_iata": "OSL",
+    "name": {
+      "ru": "Осло",
+      "en": "Oslo"
+    },
+    "search_id": "9166",
+    "search_type": "city",
+    "destination": {
+      "ru": "Осло",
+      "en": "Oslo"
+    }
+  },
+ "/travel/piteretnoexp-3/": {
+    "destination_iata": "LED",
+    "name": {
+      "ru": "Санкт-Петербург",
+      "en": "Saint Petersburg"
+    },
+    "search_id": "12196",
+    "search_type": "city",
+    "destination": {
+      "ru": "Санкт-Петербург, Россия",
+      "en": "St. Petersburg, Russia"
+    }
+  },
+ "/travel/piteretnoexp-2/": {
+    "destination_iata": "LED",
+    "name": {
+      "ru": "Санкт-Петербург",
+      "en": "Saint Petersburg"
+    },
+    "search_id": "12196",
+    "search_type": "city",
+    "destination": {
+      "ru": "Санкт-Петербург, Россия",
+      "en": "St. Petersburg, Russia"
+    }
+  },
+ "/travel/piteretnoexp-1/": {
+    "destination_iata": "LED",
+    "name": {
+      "ru": "Санкт-Петербург",
+      "en": "Saint Petersburg"
+    },
+    "search_id": "12196",
+    "search_type": "city",
+    "destination": {
+      "ru": "Санкт-Петербург, Россия",
+      "en": "St. Petersburg, Russia"
+    }
+  },
+ "/travel/uglich.2013/": {
+    "destination_iata": "IAR",
+    "name": {
+      "ru": "Ярославль",
+      "en": "Yaroslavl"
+    },
+    "search_id": "12210",
+    "search_type": "city",
+    "destination": {
+      "ru": "Углич, Россия",
+      "en": "Uglich, Russia"
+    }
+  },
+ "/travel/east-timor/": {
+    "destination_iata": "DIL",
+    "name": {
+      "ru": "Дили",
+      "en": "Dili"
+    },
+    "search_id": "24183",
+    "search_type": "city",
+    "destination": {
+      "ru": "Дили",
+      "en": "Dili, East Timor"
+    }
+  },
  "/travel/papua-new-guinea/": {
     "destination_iata": "HGU",
     "name": {
